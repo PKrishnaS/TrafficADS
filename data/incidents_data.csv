@@ -1,0 +1,401 @@
+incident_id,road_id,road_name,latitude,longitude,incident_type,severity,start_time,duration_min,delay_added_min,lanes_affected,is_cleared
+INC_0000,RD_077,Road Segment 77,13.079683,80.189489,breakdown,critical,2024-04-04 23:00,32,47,1,False
+INC_0001,RD_059,Road Segment 59,12.874856,80.169786,breakdown,critical,2024-10-12 12:00,131,55,2,True
+INC_0002,RD_027,Road Segment 27,12.878214,80.130198,accident,critical,2024-09-07 23:00,200,53,4,True
+INC_0003,RD_065,Road Segment 65,13.008808,80.226803,road_block,minor,2024-08-21 10:00,221,9,3,True
+INC_0004,RD_070,Road Segment 70,13.000329,80.386469,flood,major,2024-10-02 06:00,195,29,1,False
+INC_0005,RD_050,Road Segment 50,13.017873,80.138474,construction,critical,2024-08-06 02:00,198,51,3,True
+INC_0006,RD_054,Road Segment 54,12.997076,80.166577,protest,major,2024-04-02 15:00,117,23,3,True
+INC_0007,RD_018,LB Road Adyar,12.995499,80.257572,breakdown,minor,2024-12-22 10:00,105,12,1,False
+INC_0008,RD_048,Road Segment 48,13.158316,80.192203,accident,minor,2024-07-06 00:00,106,9,2,False
+INC_0009,RD_044,Road Segment 44,13.189159,80.360652,road_block,major,2024-09-24 23:00,53,23,6,True
+INC_0010,RD_006,Rajiv Gandhi Salai (IT Corridor),12.955922,80.237491,flood,critical,2024-09-21 09:00,32,48,3,True
+INC_0011,RD_078,Road Segment 78,13.010939,80.401414,vip_movement,minor,2024-04-24 06:00,228,14,2,False
+INC_0012,RD_064,Road Segment 64,13.129068,80.130837,breakdown,critical,2024-01-22 21:00,103,51,1,True
+INC_0013,RD_018,LB Road Adyar,13.002171,80.254102,construction,critical,2024-02-07 15:00,151,46,2,True
+INC_0014,RD_039,Road Segment 39,12.894009,80.322937,breakdown,major,2024-12-28 13:00,240,24,3,False
+INC_0015,RD_030,Road Segment 30,13.096588,80.116059,vip_movement,major,2024-07-13 11:00,48,25,1,True
+INC_0016,RD_055,Road Segment 55,12.982603,80.302377,construction,minor,2024-11-17 23:00,194,8,3,True
+INC_0017,RD_006,Rajiv Gandhi Salai (IT Corridor),12.957314,80.239008,construction,critical,2024-03-11 23:00,213,52,4,True
+INC_0018,RD_021,Road Segment 21,13.073542,80.10463,construction,minor,2024-07-16 07:00,108,8,2,True
+INC_0019,RD_062,Road Segment 62,12.968381,80.225398,vip_movement,minor,2024-03-31 22:00,82,14,1,False
+INC_0020,RD_024,Road Segment 24,12.858636,80.15771,accident,minor,2024-12-17 02:00,19,9,1,False
+INC_0021,RD_012,Sardar Patel Road,12.999519,80.21504,construction,minor,2024-10-06 15:00,184,7,1,True
+INC_0022,RD_030,Road Segment 30,13.094996,80.11275,road_block,minor,2024-10-13 16:00,134,12,4,True
+INC_0023,RD_005,NH-16 (Chennai-Kolkata Highway),13.152866,80.278954,road_block,minor,2024-07-15 03:00,32,13,4,True
+INC_0024,RD_027,Road Segment 27,12.881348,80.130844,flood,critical,2024-07-28 19:00,180,47,1,True
+INC_0025,RD_078,Road Segment 78,13.013359,80.401966,construction,major,2024-09-29 14:00,31,18,2,False
+INC_0026,RD_033,Road Segment 33,13.080878,80.309172,breakdown,major,2024-07-16 11:00,110,22,6,True
+INC_0027,RD_066,Road Segment 66,13.153993,80.123451,flood,critical,2024-05-13 05:00,117,42,1,True
+INC_0028,RD_015,Arcot Road,13.052071,80.209349,vip_movement,major,2024-01-21 04:00,105,30,3,True
+INC_0029,RD_036,Road Segment 36,13.145035,80.329256,construction,minor,2024-07-24 15:00,148,8,1,False
+INC_0030,RD_055,Road Segment 55,12.989874,80.295278,flood,critical,2024-01-26 01:00,26,52,2,False
+INC_0031,RD_008,Grand Southern Trunk Road,12.978705,80.10817,breakdown,major,2024-01-11 02:00,240,27,3,True
+INC_0032,RD_016,Patel Road T Nagar,13.039426,80.233628,breakdown,major,2024-08-30 08:00,80,22,4,False
+INC_0033,RD_018,LB Road Adyar,13.001304,80.254381,road_block,major,2024-01-19 11:00,170,20,1,True
+INC_0034,RD_069,Road Segment 69,12.9832,80.395291,flood,minor,2024-03-24 11:00,158,4,2,False
+INC_0035,RD_025,Road Segment 25,13.05559,80.338647,vip_movement,minor,2024-12-15 01:00,138,8,1,True
+INC_0036,RD_052,Road Segment 52,13.025376,80.124281,protest,major,2024-12-12 17:00,102,24,2,True
+INC_0037,RD_068,Road Segment 68,12.990166,80.242543,vip_movement,minor,2024-01-23 03:00,66,5,2,True
+INC_0038,RD_039,Road Segment 39,12.902519,80.322683,flood,minor,2024-12-07 14:00,108,6,4,False
+INC_0039,RD_033,Road Segment 33,13.086157,80.310792,vip_movement,minor,2024-01-18 03:00,235,11,2,False
+INC_0040,RD_034,Road Segment 34,12.907801,80.319916,accident,minor,2024-04-16 10:00,116,7,2,True
+INC_0041,RD_006,Rajiv Gandhi Salai (IT Corridor),12.962673,80.239125,vip_movement,minor,2024-07-09 03:00,199,4,2,True
+INC_0042,RD_060,Road Segment 60,12.897713,80.376876,protest,minor,2024-11-30 09:00,216,4,2,True
+INC_0043,RD_016,Patel Road T Nagar,13.039169,80.229657,flood,minor,2024-07-15 15:00,193,9,1,False
+INC_0044,RD_014,Nungambakkam High Road,13.058949,80.243623,road_block,major,2024-07-29 15:00,174,25,2,True
+INC_0045,RD_033,Road Segment 33,13.081739,80.314727,accident,critical,2024-01-27 22:00,226,51,4,False
+INC_0046,RD_065,Road Segment 65,13.010529,80.218186,protest,major,2024-04-13 16:00,27,17,4,True
+INC_0047,RD_026,Road Segment 26,12.996549,80.184499,flood,critical,2024-10-08 00:00,186,50,2,False
+INC_0048,RD_034,Road Segment 34,12.912413,80.315164,breakdown,critical,2024-11-12 11:00,99,54,1,False
+INC_0049,RD_012,Sardar Patel Road,13.008145,80.219357,flood,minor,2024-01-23 17:00,164,11,1,False
+INC_0050,RD_077,Road Segment 77,13.083875,80.192434,protest,critical,2024-09-23 03:00,36,43,1,True
+INC_0051,RD_069,Road Segment 69,12.985424,80.397831,road_block,critical,2024-05-22 16:00,193,47,3,True
+INC_0052,RD_002,GST Road,12.972482,80.190569,flood,minor,2024-12-03 08:00,168,5,3,False
+INC_0053,RD_007,Poonamallee High Road,13.04598,80.150448,accident,major,2024-07-26 15:00,203,25,2,False
+INC_0054,RD_009,Inner Ring Road,13.021856,80.204139,vip_movement,minor,2024-07-27 22:00,47,12,1,True
+INC_0055,RD_080,Road Segment 80,12.984332,80.145211,vip_movement,minor,2024-05-13 07:00,25,14,3,True
+INC_0056,RD_052,Road Segment 52,13.018999,80.121327,protest,critical,2024-05-02 08:00,230,44,2,True
+INC_0057,RD_055,Road Segment 55,12.987327,80.301715,vip_movement,critical,2024-02-02 18:00,20,47,1,True
+INC_0058,RD_028,Road Segment 28,13.133997,80.316248,flood,critical,2024-08-03 03:00,121,48,4,True
+INC_0059,RD_029,Road Segment 29,13.042126,80.34567,flood,major,2024-06-26 19:00,95,20,2,True
+INC_0060,RD_048,Road Segment 48,13.155202,80.191116,flood,major,2024-03-28 01:00,26,29,1,False
+INC_0061,RD_059,Road Segment 59,12.882896,80.170923,breakdown,minor,2024-09-27 16:00,118,9,2,True
+INC_0062,RD_050,Road Segment 50,13.018655,80.13008,accident,major,2024-11-28 18:00,129,20,1,True
+INC_0063,RD_047,Road Segment 47,13.154892,80.172366,road_block,critical,2024-12-30 11:00,123,46,2,True
+INC_0064,RD_070,Road Segment 70,12.99788,80.389118,protest,critical,2024-12-24 19:00,72,48,2,True
+INC_0065,RD_057,Road Segment 57,13.054109,80.172366,road_block,major,2024-10-19 03:00,188,27,2,True
+INC_0066,RD_065,Road Segment 65,13.008129,80.227522,construction,critical,2024-01-30 16:00,141,46,2,True
+INC_0067,RD_075,Road Segment 75,12.864432,80.125232,road_block,critical,2024-12-15 20:00,225,45,1,False
+INC_0068,RD_035,Road Segment 35,12.948753,80.378185,vip_movement,minor,2024-05-02 18:00,155,7,6,True
+INC_0069,RD_059,Road Segment 59,12.873669,80.168417,vip_movement,critical,2024-04-03 17:00,178,44,2,True
+INC_0070,RD_056,Road Segment 56,13.007133,80.173181,vip_movement,critical,2024-03-22 02:00,28,50,2,True
+INC_0071,RD_013,Cathedral Road,13.06019,80.250859,vip_movement,minor,2024-10-18 08:00,114,3,3,True
+INC_0072,RD_077,Road Segment 77,13.086121,80.187209,vip_movement,major,2024-06-22 09:00,49,18,2,True
+INC_0073,RD_014,Nungambakkam High Road,13.058733,80.240491,construction,major,2024-09-21 12:00,181,26,4,True
+INC_0074,RD_029,Road Segment 29,13.039721,80.353388,road_block,critical,2024-10-25 02:00,65,48,1,True
+INC_0075,RD_020,Kamarajar Salai Marina,13.057944,80.282628,construction,major,2024-10-26 06:00,86,23,6,True
+INC_0076,RD_074,Road Segment 74,12.995139,80.385272,road_block,minor,2024-03-18 11:00,141,13,4,True
+INC_0077,RD_045,Road Segment 45,12.892347,80.36294,vip_movement,major,2024-02-02 20:00,44,24,5,True
+INC_0078,RD_055,Road Segment 55,12.99297,80.300431,road_block,minor,2024-01-14 09:00,52,8,3,True
+INC_0079,RD_041,Road Segment 41,13.032604,80.126111,protest,minor,2024-08-07 00:00,32,6,1,True
+INC_0080,RD_018,LB Road Adyar,12.99882,80.250708,vip_movement,major,2024-02-19 03:00,50,28,2,False
+INC_0081,RD_039,Road Segment 39,12.904038,80.326044,road_block,minor,2024-10-18 15:00,203,9,4,True
+INC_0082,RD_036,Road Segment 36,13.142425,80.334546,accident,major,2024-02-23 12:00,181,19,1,True
+INC_0083,RD_063,Road Segment 63,13.195323,80.125047,vip_movement,major,2024-01-21 17:00,19,20,6,True
+INC_0084,RD_044,Road Segment 44,13.188724,80.361585,breakdown,minor,2024-05-22 21:00,221,10,6,True
+INC_0085,RD_014,Nungambakkam High Road,13.055376,80.243907,flood,critical,2024-02-03 00:00,27,43,2,True
+INC_0086,RD_004,ECR (East Coast Road),12.852173,80.251408,breakdown,critical,2024-01-29 10:00,66,42,4,True
+INC_0087,RD_005,NH-16 (Chennai-Kolkata Highway),13.151174,80.274936,vip_movement,critical,2024-08-24 02:00,48,51,3,False
+INC_0088,RD_059,Road Segment 59,12.873525,80.169523,construction,minor,2024-09-18 12:00,237,10,2,False
+INC_0089,RD_046,Road Segment 46,12.886513,80.233287,flood,critical,2024-07-04 21:00,87,50,1,False
+INC_0090,RD_077,Road Segment 77,13.085852,80.1882,road_block,critical,2024-02-03 06:00,144,53,1,False
+INC_0091,RD_079,Road Segment 79,12.925743,80.182507,accident,critical,2024-09-18 16:00,129,45,2,False
+INC_0092,RD_056,Road Segment 56,13.00667,80.180013,construction,critical,2024-04-29 07:00,176,55,3,True
+INC_0093,RD_067,Road Segment 67,13.201126,80.347213,construction,critical,2024-08-13 16:00,230,51,1,True
+INC_0094,RD_021,Road Segment 21,13.072581,80.109463,accident,critical,2024-01-02 20:00,22,47,1,False
+INC_0095,RD_077,Road Segment 77,13.08838,80.196181,flood,major,2024-04-20 00:00,155,20,1,True
+INC_0096,RD_078,Road Segment 78,13.009998,80.399576,accident,critical,2024-06-16 05:00,98,53,1,True
+INC_0097,RD_002,GST Road,12.968461,80.190847,road_block,critical,2024-09-04 13:00,56,53,1,False
+INC_0098,RD_013,Cathedral Road,13.059357,80.252174,accident,minor,2024-10-03 19:00,171,4,2,True
+INC_0099,RD_063,Road Segment 63,13.195634,80.124734,breakdown,major,2024-04-28 10:00,197,20,3,False
+INC_0100,RD_019,100 Feet Road Vadapalani,13.052379,80.209258,construction,critical,2024-12-27 21:00,44,45,4,False
+INC_0101,RD_053,Road Segment 53,13.010053,80.266234,protest,minor,2024-03-28 01:00,135,4,6,True
+INC_0102,RD_016,Patel Road T Nagar,13.040364,80.236387,vip_movement,critical,2024-02-07 06:00,149,42,2,True
+INC_0103,RD_037,Road Segment 37,12.990943,80.124666,accident,minor,2024-08-03 03:00,63,13,1,False
+INC_0104,RD_056,Road Segment 56,13.008176,80.169926,breakdown,major,2024-01-03 19:00,47,19,4,False
+INC_0105,RD_064,Road Segment 64,13.129124,80.130638,breakdown,major,2024-02-01 22:00,168,29,2,False
+INC_0106,RD_076,Road Segment 76,13.081384,80.191417,accident,major,2024-06-22 02:00,35,21,4,False
+INC_0107,RD_036,Road Segment 36,13.143121,80.333297,construction,critical,2024-09-05 08:00,84,42,1,False
+INC_0108,RD_071,Road Segment 71,12.949196,80.394387,accident,major,2024-08-04 19:00,86,25,5,True
+INC_0109,RD_058,Road Segment 58,13.100031,80.120717,vip_movement,minor,2024-03-22 08:00,127,15,1,False
+INC_0110,RD_041,Road Segment 41,13.031742,80.128382,road_block,critical,2024-02-20 21:00,184,45,1,True
+INC_0111,RD_048,Road Segment 48,13.151938,80.191427,breakdown,critical,2024-09-16 18:00,135,43,2,False
+INC_0112,RD_016,Patel Road T Nagar,13.037509,80.229006,breakdown,major,2024-03-01 10:00,116,17,3,True
+INC_0113,RD_061,Road Segment 61,13.13423,80.155048,breakdown,major,2024-10-26 20:00,205,26,3,True
+INC_0114,RD_030,Road Segment 30,13.099748,80.116587,breakdown,major,2024-10-01 22:00,68,27,1,True
+INC_0115,RD_044,Road Segment 44,13.191402,80.353706,construction,major,2024-11-08 08:00,138,24,4,True
+INC_0116,RD_068,Road Segment 68,12.987668,80.248839,breakdown,critical,2024-12-13 15:00,85,45,1,False
+INC_0117,RD_037,Road Segment 37,12.987906,80.118545,accident,major,2024-02-24 03:00,137,25,2,True
+INC_0118,RD_055,Road Segment 55,12.990653,80.294518,breakdown,major,2024-07-16 10:00,79,26,2,True
+INC_0119,RD_033,Road Segment 33,13.082922,80.310053,flood,minor,2024-07-27 04:00,25,4,4,True
+INC_0120,RD_068,Road Segment 68,12.991642,80.24768,breakdown,minor,2024-06-12 03:00,78,13,1,True
+INC_0121,RD_043,Road Segment 43,12.981021,80.280278,road_block,minor,2024-04-02 12:00,119,5,5,True
+INC_0122,RD_065,Road Segment 65,13.003777,80.225489,flood,minor,2024-05-24 15:00,160,13,2,True
+INC_0123,RD_071,Road Segment 71,12.9542,80.392161,accident,minor,2024-01-30 20:00,128,4,2,True
+INC_0124,RD_062,Road Segment 62,12.972387,80.215566,road_block,minor,2024-05-27 17:00,82,4,6,True
+INC_0125,RD_056,Road Segment 56,13.014603,80.173618,breakdown,minor,2024-04-15 17:00,106,10,2,True
+INC_0126,RD_003,OMR (Old Mahabalipuram Road),12.916884,80.22563,flood,minor,2024-09-02 12:00,46,13,3,True
+INC_0127,RD_034,Road Segment 34,12.914068,80.31822,vip_movement,major,2024-09-16 10:00,153,26,3,True
+INC_0128,RD_078,Road Segment 78,13.014379,80.396348,road_block,minor,2024-03-06 03:00,200,11,1,True
+INC_0129,RD_030,Road Segment 30,13.091581,80.118103,protest,critical,2024-09-07 17:00,219,48,2,True
+INC_0130,RD_044,Road Segment 44,13.190959,80.355186,construction,major,2024-07-11 03:00,40,27,2,True
+INC_0131,RD_054,Road Segment 54,13.000158,80.164197,protest,minor,2024-01-30 19:00,20,2,5,True
+INC_0132,RD_062,Road Segment 62,12.976607,80.226473,construction,major,2024-03-01 12:00,23,19,5,False
+INC_0133,RD_068,Road Segment 68,12.994859,80.240708,protest,major,2024-01-30 05:00,130,18,2,False
+INC_0134,RD_025,Road Segment 25,13.052691,80.341326,flood,major,2024-12-21 17:00,185,17,2,True
+INC_0135,RD_043,Road Segment 43,12.990334,80.278315,accident,minor,2024-06-20 00:00,47,10,6,True
+INC_0136,RD_047,Road Segment 47,13.161849,80.183253,flood,major,2024-03-01 05:00,80,23,4,False
+INC_0137,RD_019,100 Feet Road Vadapalani,13.054424,80.205489,breakdown,critical,2024-08-19 00:00,164,49,1,False
+INC_0138,RD_031,Road Segment 31,13.148621,80.367815,road_block,critical,2024-09-25 19:00,210,42,4,True
+INC_0139,RD_075,Road Segment 75,12.868952,80.127457,road_block,minor,2024-04-23 12:00,184,5,2,False
+INC_0140,RD_016,Patel Road T Nagar,13.041947,80.230578,protest,critical,2024-03-23 03:00,146,54,2,True
+INC_0141,RD_068,Road Segment 68,12.995207,80.238292,protest,major,2024-05-25 11:00,94,19,2,True
+INC_0142,RD_003,OMR (Old Mahabalipuram Road),12.919887,80.226831,accident,critical,2024-09-04 14:00,215,43,1,True
+INC_0143,RD_050,Road Segment 50,13.024016,80.129274,road_block,major,2024-10-03 11:00,72,25,2,False
+INC_0144,RD_006,Rajiv Gandhi Salai (IT Corridor),12.959407,80.243035,accident,critical,2024-04-02 05:00,205,51,2,False
+INC_0145,RD_077,Road Segment 77,13.086482,80.186111,breakdown,critical,2024-10-08 02:00,134,55,1,True
+INC_0146,RD_034,Road Segment 34,12.908145,80.325803,accident,major,2024-03-23 22:00,41,19,4,False
+INC_0147,RD_061,Road Segment 61,13.136376,80.162046,construction,major,2024-06-09 12:00,183,20,2,True
+INC_0148,RD_063,Road Segment 63,13.195087,80.124166,construction,minor,2024-12-02 19:00,132,10,2,True
+INC_0149,RD_075,Road Segment 75,12.868595,80.12194,construction,major,2024-01-24 20:00,78,26,1,False
+INC_0150,RD_079,Road Segment 79,12.925406,80.18382,construction,minor,2024-05-08 06:00,184,2,1,False
+INC_0151,RD_063,Road Segment 63,13.19454,80.127083,protest,minor,2024-09-05 09:00,226,5,2,True
+INC_0152,RD_066,Road Segment 66,13.149232,80.120885,construction,minor,2024-10-04 07:00,36,3,2,True
+INC_0153,RD_057,Road Segment 57,13.057948,80.168775,construction,major,2024-07-15 19:00,100,20,1,True
+INC_0154,RD_074,Road Segment 74,12.994315,80.381987,construction,critical,2024-08-15 15:00,87,55,1,True
+INC_0155,RD_046,Road Segment 46,12.888959,80.227876,flood,major,2024-09-22 19:00,98,25,2,True
+INC_0156,RD_012,Sardar Patel Road,13.002253,80.222226,protest,minor,2024-11-11 01:00,112,12,1,True
+INC_0157,RD_056,Road Segment 56,13.008255,80.175615,construction,major,2024-01-31 07:00,228,28,1,True
+INC_0158,RD_063,Road Segment 63,13.193613,80.129545,vip_movement,critical,2024-11-21 12:00,219,54,3,True
+INC_0159,RD_016,Patel Road T Nagar,13.041576,80.235115,protest,major,2024-07-22 05:00,106,22,2,True
+INC_0160,RD_037,Road Segment 37,12.994,80.120197,construction,major,2024-07-20 01:00,63,28,2,True
+INC_0161,RD_026,Road Segment 26,12.998222,80.188024,breakdown,major,2024-01-07 02:00,102,27,3,False
+INC_0162,RD_068,Road Segment 68,12.988963,80.245621,flood,major,2024-06-19 11:00,227,30,1,True
+INC_0163,RD_007,Poonamallee High Road,13.050837,80.147722,vip_movement,major,2024-01-05 20:00,116,18,2,True
+INC_0164,RD_022,Road Segment 22,12.899409,80.128519,construction,minor,2024-09-20 00:00,89,5,1,True
+INC_0165,RD_059,Road Segment 59,12.873855,80.174676,flood,major,2024-05-14 23:00,111,19,1,True
+INC_0166,RD_041,Road Segment 41,13.02733,80.1329,accident,major,2024-04-04 05:00,34,19,2,True
+INC_0167,RD_012,Sardar Patel Road,13.010097,80.215182,protest,minor,2024-02-12 23:00,235,10,2,True
+INC_0168,RD_067,Road Segment 67,13.194295,80.350267,flood,critical,2024-11-01 01:00,39,44,1,False
+INC_0169,RD_017,Usman Road T Nagar,13.040363,80.238495,construction,critical,2024-04-28 20:00,211,46,1,False
+INC_0170,RD_070,Road Segment 70,12.999887,80.393129,construction,critical,2024-07-31 13:00,167,50,2,False
+INC_0171,RD_038,Road Segment 38,13.016946,80.365591,construction,critical,2024-08-22 14:00,44,52,1,True
+INC_0172,RD_057,Road Segment 57,13.055399,80.168946,breakdown,minor,2024-02-01 21:00,191,11,1,True
+INC_0173,RD_078,Road Segment 78,13.007852,80.403203,accident,major,2024-04-04 08:00,44,24,1,True
+INC_0174,RD_069,Road Segment 69,12.98621,80.398342,construction,critical,2024-01-08 15:00,84,47,4,False
+INC_0175,RD_018,LB Road Adyar,12.998335,80.25174,construction,minor,2024-09-17 15:00,150,10,2,True
+INC_0176,RD_001,Anna Salai (Mount Road),13.070329,80.248699,construction,major,2024-04-11 23:00,84,25,3,True
+INC_0177,RD_033,Road Segment 33,13.085823,80.311291,flood,major,2024-08-01 07:00,137,17,2,True
+INC_0178,RD_067,Road Segment 67,13.20186,80.347622,protest,minor,2024-06-07 03:00,207,12,2,True
+INC_0179,RD_001,Anna Salai (Mount Road),13.068732,80.25355,protest,major,2024-12-08 22:00,161,17,3,True
+INC_0180,RD_043,Road Segment 43,12.983793,80.282054,flood,critical,2024-08-16 03:00,83,48,6,True
+INC_0181,RD_058,Road Segment 58,13.099998,80.116343,construction,critical,2024-05-22 01:00,31,52,1,True
+INC_0182,RD_068,Road Segment 68,12.990273,80.247484,accident,minor,2024-05-06 13:00,180,12,1,True
+INC_0183,RD_054,Road Segment 54,12.995359,80.164727,vip_movement,minor,2024-08-19 19:00,150,3,6,False
+INC_0184,RD_040,Road Segment 40,13.005554,80.277405,breakdown,minor,2024-06-22 01:00,153,14,2,True
+INC_0185,RD_044,Road Segment 44,13.192207,80.355747,breakdown,minor,2024-02-12 18:00,193,6,6,True
+INC_0186,RD_069,Road Segment 69,12.98639,80.393788,construction,minor,2024-12-30 06:00,222,10,2,True
+INC_0187,RD_031,Road Segment 31,13.144294,80.3594,road_block,critical,2024-01-25 03:00,101,51,4,True
+INC_0188,RD_028,Road Segment 28,13.127826,80.318263,accident,minor,2024-02-04 09:00,28,2,1,True
+INC_0189,RD_034,Road Segment 34,12.910489,80.322051,flood,critical,2024-05-02 11:00,177,46,4,True
+INC_0190,RD_009,Inner Ring Road,13.020232,80.210825,accident,critical,2024-05-14 17:00,38,46,3,True
+INC_0191,RD_061,Road Segment 61,13.130912,80.156285,vip_movement,minor,2024-11-25 17:00,76,14,2,True
+INC_0192,RD_011,Velachery Main Road,12.983339,80.222097,accident,critical,2024-08-13 04:00,155,50,2,False
+INC_0193,RD_055,Road Segment 55,12.989257,80.304238,accident,critical,2024-01-25 07:00,92,45,3,True
+INC_0194,RD_055,Road Segment 55,12.991771,80.304225,road_block,critical,2024-01-14 20:00,102,53,4,True
+INC_0195,RD_016,Patel Road T Nagar,13.038326,80.235098,vip_movement,critical,2024-11-14 18:00,139,49,3,True
+INC_0196,RD_038,Road Segment 38,13.02729,80.362374,road_block,minor,2024-10-19 20:00,101,12,1,True
+INC_0197,RD_039,Road Segment 39,12.900772,80.322219,construction,critical,2024-06-30 16:00,110,47,5,False
+INC_0198,RD_076,Road Segment 76,13.084129,80.192953,protest,minor,2024-07-15 03:00,33,6,3,False
+INC_0199,RD_003,OMR (Old Mahabalipuram Road),12.921117,80.225109,vip_movement,major,2024-09-14 15:00,147,18,2,True
+INC_0200,RD_025,Road Segment 25,13.056522,80.344258,breakdown,major,2024-05-04 23:00,233,29,1,True
+INC_0201,RD_057,Road Segment 57,13.058245,80.170931,construction,major,2024-02-25 23:00,96,19,2,True
+INC_0202,RD_015,Arcot Road,13.05447,80.215208,flood,critical,2024-07-28 09:00,145,42,3,True
+INC_0203,RD_067,Road Segment 67,13.201977,80.354365,construction,major,2024-05-04 00:00,215,17,1,False
+INC_0204,RD_060,Road Segment 60,12.893382,80.38116,breakdown,minor,2024-04-21 10:00,141,3,2,True
+INC_0205,RD_045,Road Segment 45,12.89711,80.364244,construction,critical,2024-07-20 23:00,25,44,6,False
+INC_0206,RD_039,Road Segment 39,12.897867,80.327157,accident,critical,2024-09-22 13:00,38,44,4,True
+INC_0207,RD_036,Road Segment 36,13.14601,80.332465,protest,minor,2024-06-13 21:00,155,15,1,True
+INC_0208,RD_068,Road Segment 68,12.994082,80.245657,road_block,major,2024-07-02 22:00,66,17,1,True
+INC_0209,RD_012,Sardar Patel Road,13.00317,80.217748,vip_movement,major,2024-07-30 23:00,111,18,4,True
+INC_0210,RD_052,Road Segment 52,13.015435,80.122181,construction,major,2024-06-09 12:00,56,27,1,True
+INC_0211,RD_001,Anna Salai (Mount Road),13.071087,80.253579,protest,major,2024-04-04 03:00,82,19,5,False
+INC_0212,RD_017,Usman Road T Nagar,13.043949,80.24197,road_block,critical,2024-05-06 18:00,52,45,2,False
+INC_0213,RD_012,Sardar Patel Road,13.005489,80.220926,construction,major,2024-08-10 10:00,227,27,3,True
+INC_0214,RD_024,Road Segment 24,12.854709,80.155026,vip_movement,minor,2024-02-02 18:00,56,9,1,False
+INC_0215,RD_018,LB Road Adyar,13.002265,80.258473,road_block,major,2024-12-21 22:00,137,29,2,True
+INC_0216,RD_039,Road Segment 39,12.895942,80.323044,road_block,major,2024-07-16 12:00,62,23,2,False
+INC_0217,RD_073,Road Segment 73,12.877492,80.156433,vip_movement,minor,2024-02-02 00:00,62,7,1,True
+INC_0218,RD_020,Kamarajar Salai Marina,13.056319,80.282554,road_block,critical,2024-07-04 13:00,142,45,2,True
+INC_0219,RD_039,Road Segment 39,12.901953,80.324111,construction,minor,2024-07-17 02:00,48,3,3,True
+INC_0220,RD_049,Road Segment 49,13.115006,80.259206,construction,major,2024-10-06 08:00,89,28,6,False
+INC_0221,RD_069,Road Segment 69,12.982362,80.402579,flood,minor,2024-08-08 01:00,28,8,3,True
+INC_0222,RD_047,Road Segment 47,13.154118,80.177011,flood,minor,2024-02-07 15:00,69,7,3,False
+INC_0223,RD_038,Road Segment 38,13.023388,80.363427,vip_movement,minor,2024-03-05 10:00,212,12,1,False
+INC_0224,RD_075,Road Segment 75,12.861193,80.123641,flood,critical,2024-07-08 18:00,126,47,3,True
+INC_0225,RD_008,Grand Southern Trunk Road,12.980661,80.11211,accident,critical,2024-01-06 07:00,91,47,4,True
+INC_0226,RD_073,Road Segment 73,12.877334,80.152056,flood,minor,2024-02-27 07:00,189,3,4,True
+INC_0227,RD_063,Road Segment 63,13.19454,80.128719,construction,minor,2024-12-21 15:00,75,9,1,False
+INC_0228,RD_055,Road Segment 55,12.992258,80.30414,construction,critical,2024-08-01 18:00,202,42,4,False
+INC_0229,RD_039,Road Segment 39,12.899378,80.326795,flood,minor,2024-11-08 22:00,193,5,1,True
+INC_0230,RD_072,Road Segment 72,12.870551,80.271266,protest,critical,2024-12-28 07:00,204,54,2,True
+INC_0231,RD_042,Road Segment 42,13.06848,80.33758,flood,major,2024-02-20 21:00,176,28,1,False
+INC_0232,RD_005,NH-16 (Chennai-Kolkata Highway),13.150876,80.280775,protest,critical,2024-01-14 16:00,45,53,5,False
+INC_0233,RD_066,Road Segment 66,13.152622,80.118579,road_block,critical,2024-10-26 07:00,101,42,2,True
+INC_0234,RD_033,Road Segment 33,13.08274,80.317028,accident,major,2024-03-15 11:00,45,21,6,True
+INC_0235,RD_003,OMR (Old Mahabalipuram Road),12.92008,80.225814,accident,minor,2024-04-16 17:00,83,5,1,True
+INC_0236,RD_020,Kamarajar Salai Marina,13.060541,80.281518,road_block,critical,2024-02-09 02:00,92,42,1,True
+INC_0237,RD_019,100 Feet Road Vadapalani,13.049135,80.209121,protest,major,2024-07-22 08:00,16,18,2,True
+INC_0238,RD_043,Road Segment 43,12.974278,80.285024,construction,minor,2024-01-07 12:00,70,10,5,True
+INC_0239,RD_078,Road Segment 78,13.008457,80.405119,road_block,critical,2024-08-31 20:00,134,45,2,True
+INC_0240,RD_071,Road Segment 71,12.954006,80.388024,accident,critical,2024-11-03 07:00,148,46,3,True
+INC_0241,RD_047,Road Segment 47,13.161508,80.178254,vip_movement,major,2024-06-28 03:00,158,30,1,False
+INC_0242,RD_042,Road Segment 42,13.065867,80.337242,breakdown,critical,2024-01-04 18:00,212,43,5,False
+INC_0243,RD_010,Outer Ring Road,12.998716,80.148721,flood,critical,2024-07-01 07:00,73,51,3,True
+INC_0244,RD_008,Grand Southern Trunk Road,12.979636,80.106704,accident,minor,2024-11-04 17:00,92,9,3,True
+INC_0245,RD_018,LB Road Adyar,13.00027,80.258034,flood,minor,2024-12-30 12:00,206,15,3,True
+INC_0246,RD_074,Road Segment 74,12.995096,80.376314,flood,minor,2024-05-23 22:00,189,15,3,True
+INC_0247,RD_028,Road Segment 28,13.132726,80.321017,breakdown,minor,2024-06-23 01:00,238,15,2,True
+INC_0248,RD_072,Road Segment 72,12.86767,80.26604,road_block,major,2024-01-25 20:00,169,21,1,False
+INC_0249,RD_004,ECR (East Coast Road),12.848186,80.249519,breakdown,major,2024-09-08 05:00,32,24,1,True
+INC_0250,RD_007,Poonamallee High Road,13.046569,80.147398,vip_movement,critical,2024-05-05 06:00,70,49,1,True
+INC_0251,RD_018,LB Road Adyar,13.002352,80.257315,accident,major,2024-04-21 02:00,180,25,4,True
+INC_0252,RD_069,Road Segment 69,12.986142,80.394686,road_block,major,2024-05-10 03:00,56,21,2,True
+INC_0253,RD_052,Road Segment 52,13.016358,80.122297,breakdown,critical,2024-09-17 21:00,119,52,1,False
+INC_0254,RD_006,Rajiv Gandhi Salai (IT Corridor),12.956779,80.237779,breakdown,minor,2024-04-11 16:00,24,10,3,False
+INC_0255,RD_009,Inner Ring Road,13.022074,80.212842,accident,minor,2024-04-05 01:00,194,13,1,True
+INC_0256,RD_067,Road Segment 67,13.198518,80.358482,protest,minor,2024-10-29 20:00,67,3,2,True
+INC_0257,RD_004,ECR (East Coast Road),12.851022,80.251479,vip_movement,major,2024-02-22 04:00,175,23,4,True
+INC_0258,RD_046,Road Segment 46,12.887285,80.221277,vip_movement,minor,2024-08-31 23:00,216,15,1,True
+INC_0259,RD_057,Road Segment 57,13.049933,80.172916,breakdown,critical,2024-01-18 17:00,67,49,2,False
+INC_0260,RD_016,Patel Road T Nagar,13.041594,80.235315,road_block,minor,2024-02-15 03:00,185,9,2,True
+INC_0261,RD_016,Patel Road T Nagar,13.038106,80.234448,vip_movement,critical,2024-02-10 16:00,127,55,2,False
+INC_0262,RD_032,Road Segment 32,13.07602,80.211697,accident,minor,2024-09-14 14:00,68,9,4,False
+INC_0263,RD_074,Road Segment 74,12.996567,80.387059,flood,critical,2024-03-27 01:00,119,49,1,True
+INC_0264,RD_020,Kamarajar Salai Marina,13.058273,80.283368,protest,major,2024-01-01 20:00,105,29,3,True
+INC_0265,RD_041,Road Segment 41,13.0226,80.129739,breakdown,major,2024-05-02 06:00,74,29,1,False
+INC_0266,RD_039,Road Segment 39,12.900827,80.321662,breakdown,major,2024-02-05 13:00,137,26,5,False
+INC_0267,RD_035,Road Segment 35,12.944101,80.368671,vip_movement,major,2024-11-18 23:00,184,19,4,True
+INC_0268,RD_011,Velachery Main Road,12.978014,80.221968,road_block,minor,2024-10-26 21:00,134,11,3,True
+INC_0269,RD_031,Road Segment 31,13.151073,80.361336,breakdown,critical,2024-05-09 21:00,224,48,3,True
+INC_0270,RD_037,Road Segment 37,12.995595,80.121976,protest,critical,2024-06-06 12:00,60,48,2,False
+INC_0271,RD_055,Road Segment 55,12.99364,80.298688,breakdown,critical,2024-05-10 05:00,119,44,1,True
+INC_0272,RD_056,Road Segment 56,13.006575,80.171746,flood,minor,2024-12-27 12:00,208,10,1,False
+INC_0273,RD_054,Road Segment 54,12.995417,80.162122,construction,major,2024-04-09 06:00,230,24,3,True
+INC_0274,RD_058,Road Segment 58,13.099367,80.120409,vip_movement,critical,2024-03-29 16:00,206,42,1,False
+INC_0275,RD_043,Road Segment 43,12.981666,80.279273,breakdown,critical,2024-12-18 21:00,15,42,6,True
+INC_0276,RD_028,Road Segment 28,13.133066,80.316533,construction,minor,2024-05-16 05:00,164,12,2,True
+INC_0277,RD_073,Road Segment 73,12.880134,80.156886,flood,minor,2024-04-30 22:00,66,6,2,False
+INC_0278,RD_039,Road Segment 39,12.9004,80.316532,construction,major,2024-07-16 13:00,239,19,5,True
+INC_0279,RD_016,Patel Road T Nagar,13.041259,80.229245,flood,minor,2024-05-03 14:00,143,7,4,True
+INC_0280,RD_050,Road Segment 50,13.016685,80.13672,breakdown,minor,2024-02-14 17:00,218,10,4,True
+INC_0281,RD_036,Road Segment 36,13.145754,80.329307,accident,major,2024-08-20 03:00,120,29,1,True
+INC_0282,RD_031,Road Segment 31,13.149204,80.359363,breakdown,major,2024-10-01 15:00,72,25,3,True
+INC_0283,RD_058,Road Segment 58,13.094268,80.121232,breakdown,critical,2024-10-25 07:00,186,44,1,True
+INC_0284,RD_067,Road Segment 67,13.198442,80.35368,road_block,major,2024-08-01 14:00,84,22,2,False
+INC_0285,RD_038,Road Segment 38,13.029524,80.360686,accident,critical,2024-06-18 13:00,184,53,1,True
+INC_0286,RD_010,Outer Ring Road,12.998995,80.15519,protest,major,2024-10-25 23:00,51,29,1,True
+INC_0287,RD_045,Road Segment 45,12.893005,80.361003,vip_movement,minor,2024-12-04 18:00,28,15,5,True
+INC_0288,RD_063,Road Segment 63,13.193906,80.128943,accident,major,2024-09-02 20:00,56,29,2,True
+INC_0289,RD_047,Road Segment 47,13.157321,80.18181,flood,major,2024-10-03 05:00,20,29,3,True
+INC_0290,RD_064,Road Segment 64,13.128948,80.132006,accident,critical,2024-04-26 03:00,114,47,1,True
+INC_0291,RD_068,Road Segment 68,12.987717,80.23928,vip_movement,critical,2024-07-04 23:00,230,44,2,False
+INC_0292,RD_041,Road Segment 41,13.030054,80.126326,accident,minor,2024-09-26 02:00,164,12,1,False
+INC_0293,RD_042,Road Segment 42,13.061756,80.337925,protest,major,2024-11-04 02:00,20,27,2,False
+INC_0294,RD_067,Road Segment 67,13.203209,80.356802,vip_movement,minor,2024-11-01 10:00,51,13,2,True
+INC_0295,RD_061,Road Segment 61,13.133925,80.157508,flood,major,2024-06-28 22:00,196,19,2,False
+INC_0296,RD_080,Road Segment 80,12.981422,80.149779,breakdown,critical,2024-03-12 12:00,152,42,2,True
+INC_0297,RD_059,Road Segment 59,12.875333,80.172912,breakdown,minor,2024-12-24 12:00,129,15,2,False
+INC_0298,RD_041,Road Segment 41,13.034259,80.126549,breakdown,major,2024-03-15 19:00,23,25,2,True
+INC_0299,RD_048,Road Segment 48,13.151706,80.18748,protest,major,2024-10-18 18:00,16,19,2,True
+INC_0300,RD_004,ECR (East Coast Road),12.854135,80.249886,vip_movement,minor,2024-03-21 08:00,36,10,1,True
+INC_0301,RD_040,Road Segment 40,12.99521,80.274022,construction,critical,2024-07-28 21:00,21,53,1,False
+INC_0302,RD_012,Sardar Patel Road,13.010237,80.212982,accident,major,2024-05-16 00:00,197,17,3,False
+INC_0303,RD_036,Road Segment 36,13.144652,80.332599,flood,critical,2024-12-21 04:00,222,50,1,True
+INC_0304,RD_056,Road Segment 56,13.002611,80.175291,flood,critical,2024-10-21 20:00,81,42,4,False
+INC_0305,RD_017,Usman Road T Nagar,13.039448,80.238468,flood,major,2024-02-17 01:00,111,18,1,True
+INC_0306,RD_064,Road Segment 64,13.124235,80.130808,construction,minor,2024-10-29 04:00,165,5,2,False
+INC_0307,RD_012,Sardar Patel Road,13.004768,80.220401,accident,minor,2024-12-17 02:00,132,14,1,False
+INC_0308,RD_035,Road Segment 35,12.945074,80.376662,protest,critical,2024-07-09 13:00,210,51,2,True
+INC_0309,RD_045,Road Segment 45,12.891726,80.365949,breakdown,major,2024-03-12 01:00,209,29,3,True
+INC_0310,RD_037,Road Segment 37,12.990893,80.120271,construction,major,2024-06-25 04:00,227,28,2,True
+INC_0311,RD_079,Road Segment 79,12.925013,80.173664,construction,minor,2024-05-03 06:00,205,14,1,True
+INC_0312,RD_062,Road Segment 62,12.977494,80.22556,vip_movement,minor,2024-08-10 14:00,71,15,2,False
+INC_0313,RD_035,Road Segment 35,12.945068,80.379327,breakdown,major,2024-11-01 11:00,43,20,3,True
+INC_0314,RD_021,Road Segment 21,13.068925,80.107182,breakdown,minor,2024-09-03 14:00,104,6,2,True
+INC_0315,RD_056,Road Segment 56,13.010484,80.173137,accident,minor,2024-06-09 17:00,143,12,3,True
+INC_0316,RD_066,Road Segment 66,13.150924,80.124901,flood,critical,2024-07-18 12:00,148,52,2,True
+INC_0317,RD_062,Road Segment 62,12.978241,80.222174,road_block,critical,2024-08-29 15:00,32,49,1,True
+INC_0318,RD_062,Road Segment 62,12.972859,80.223544,accident,critical,2024-08-24 20:00,94,44,5,True
+INC_0319,RD_062,Road Segment 62,12.977642,80.223962,vip_movement,minor,2024-04-15 21:00,233,12,4,True
+INC_0320,RD_042,Road Segment 42,13.07272,80.338895,flood,critical,2024-10-09 19:00,215,48,4,True
+INC_0321,RD_028,Road Segment 28,13.133557,80.31323,protest,critical,2024-08-17 05:00,128,48,1,False
+INC_0322,RD_024,Road Segment 24,12.863977,80.158029,breakdown,major,2024-10-12 01:00,60,23,2,True
+INC_0323,RD_020,Kamarajar Salai Marina,13.057793,80.27884,accident,major,2024-01-14 07:00,186,21,5,False
+INC_0324,RD_011,Velachery Main Road,12.987909,80.222559,flood,major,2024-02-08 05:00,233,22,1,False
+INC_0325,RD_068,Road Segment 68,12.990012,80.241724,accident,major,2024-09-28 20:00,176,27,2,False
+INC_0326,RD_029,Road Segment 29,13.043511,80.351317,breakdown,major,2024-05-16 02:00,180,24,3,False
+INC_0327,RD_073,Road Segment 73,12.870028,80.159755,vip_movement,critical,2024-03-23 23:00,183,42,3,True
+INC_0328,RD_002,GST Road,12.965851,80.187941,road_block,major,2024-12-14 23:00,119,29,1,False
+INC_0329,RD_031,Road Segment 31,13.143671,80.364936,accident,minor,2024-01-19 15:00,223,15,2,False
+INC_0330,RD_057,Road Segment 57,13.05616,80.171249,road_block,major,2024-01-13 20:00,200,17,2,True
+INC_0331,RD_045,Road Segment 45,12.889573,80.366266,breakdown,minor,2024-12-18 09:00,179,10,4,True
+INC_0332,RD_043,Road Segment 43,12.98218,80.27805,flood,critical,2024-07-28 21:00,58,47,4,False
+INC_0333,RD_026,Road Segment 26,13.000854,80.182036,protest,critical,2024-09-06 00:00,228,54,4,True
+INC_0334,RD_045,Road Segment 45,12.889863,80.370296,breakdown,minor,2024-10-24 18:00,167,4,6,False
+INC_0335,RD_012,Sardar Patel Road,13.008671,80.2228,flood,minor,2024-05-18 03:00,36,6,1,True
+INC_0336,RD_076,Road Segment 76,13.081723,80.199726,flood,minor,2024-10-20 04:00,124,10,4,True
+INC_0337,RD_025,Road Segment 25,13.052691,80.343692,flood,minor,2024-06-19 07:00,239,4,2,True
+INC_0338,RD_025,Road Segment 25,13.060489,80.341984,construction,major,2024-02-28 18:00,71,18,2,True
+INC_0339,RD_012,Sardar Patel Road,13.003814,80.220102,flood,critical,2024-08-16 04:00,194,44,3,True
+INC_0340,RD_054,Road Segment 54,13.002415,80.163092,construction,major,2024-11-06 06:00,205,29,6,True
+INC_0341,RD_002,GST Road,12.973506,80.191243,flood,minor,2024-01-16 01:00,52,8,6,True
+INC_0342,RD_052,Road Segment 52,13.021365,80.119159,protest,critical,2024-02-07 13:00,50,52,2,False
+INC_0343,RD_043,Road Segment 43,12.988542,80.280211,protest,critical,2024-02-22 20:00,71,50,5,True
+INC_0344,RD_069,Road Segment 69,12.979533,80.391903,accident,major,2024-05-29 15:00,21,23,3,True
+INC_0345,RD_050,Road Segment 50,13.021735,80.134096,road_block,critical,2024-02-19 14:00,181,45,4,True
+INC_0346,RD_033,Road Segment 33,13.081513,80.313805,vip_movement,minor,2024-05-23 03:00,232,8,2,True
+INC_0347,RD_054,Road Segment 54,12.999836,80.166855,breakdown,minor,2024-04-28 07:00,160,11,3,False
+INC_0348,RD_037,Road Segment 37,12.992333,80.117224,flood,critical,2024-09-06 16:00,161,45,1,True
+INC_0349,RD_030,Road Segment 30,13.090935,80.1114,road_block,major,2024-07-16 23:00,75,18,4,True
+INC_0350,RD_053,Road Segment 53,13.016192,80.26562,breakdown,major,2024-06-21 02:00,85,21,5,True
+INC_0351,RD_025,Road Segment 25,13.058159,80.339812,road_block,critical,2024-12-26 07:00,147,50,2,True
+INC_0352,RD_026,Road Segment 26,12.999017,80.184735,vip_movement,critical,2024-05-17 01:00,165,55,3,False
+INC_0353,RD_054,Road Segment 54,13.000318,80.160813,accident,major,2024-07-28 17:00,35,18,2,True
+INC_0354,RD_059,Road Segment 59,12.876686,80.17043,construction,major,2024-03-02 12:00,58,20,2,True
+INC_0355,RD_016,Patel Road T Nagar,13.047666,80.234572,construction,minor,2024-10-23 20:00,26,11,1,False
+INC_0356,RD_079,Road Segment 79,12.92646,80.184813,flood,critical,2024-11-13 19:00,170,52,1,False
+INC_0357,RD_060,Road Segment 60,12.895114,80.379738,accident,critical,2024-07-17 17:00,150,52,2,False
+INC_0358,RD_020,Kamarajar Salai Marina,13.061261,80.279366,accident,critical,2024-12-12 20:00,145,50,1,True
+INC_0359,RD_041,Road Segment 41,13.028404,80.131401,flood,major,2024-02-22 03:00,18,26,2,True
+INC_0360,RD_060,Road Segment 60,12.89809,80.381667,breakdown,major,2024-07-25 23:00,200,24,2,True
+INC_0361,RD_008,Grand Southern Trunk Road,12.980857,80.110944,flood,minor,2024-03-18 13:00,30,11,4,True
+INC_0362,RD_004,ECR (East Coast Road),12.846323,80.249385,construction,minor,2024-04-24 18:00,240,2,4,False
+INC_0363,RD_064,Road Segment 64,13.127863,80.132564,protest,minor,2024-04-21 10:00,29,7,2,True
+INC_0364,RD_036,Road Segment 36,13.144739,80.332848,accident,major,2024-01-03 07:00,127,20,1,True
+INC_0365,RD_041,Road Segment 41,13.031779,80.126867,protest,critical,2024-10-02 05:00,138,47,1,True
+INC_0366,RD_016,Patel Road T Nagar,13.039319,80.234169,road_block,minor,2024-09-25 10:00,132,4,4,True
+INC_0367,RD_069,Road Segment 69,12.983969,80.397592,road_block,minor,2024-05-09 14:00,157,15,3,True
+INC_0368,RD_077,Road Segment 77,13.089444,80.190041,construction,critical,2024-02-05 23:00,164,44,1,True
+INC_0369,RD_027,Road Segment 27,12.880853,80.13341,construction,major,2024-04-11 21:00,64,27,2,False
+INC_0370,RD_078,Road Segment 78,13.009493,80.398673,vip_movement,minor,2024-02-17 17:00,185,10,1,False
+INC_0371,RD_079,Road Segment 79,12.921702,80.176097,breakdown,major,2024-07-23 12:00,194,17,1,True
+INC_0372,RD_001,Anna Salai (Mount Road),13.067016,80.259547,flood,major,2024-07-22 13:00,207,18,5,False
+INC_0373,RD_036,Road Segment 36,13.144168,80.329788,road_block,major,2024-01-07 15:00,203,21,2,True
+INC_0374,RD_020,Kamarajar Salai Marina,13.061135,80.28331,breakdown,minor,2024-09-21 19:00,231,3,4,True
+INC_0375,RD_058,Road Segment 58,13.103849,80.115992,road_block,major,2024-02-26 04:00,72,25,2,False
+INC_0376,RD_079,Road Segment 79,12.930568,80.178218,vip_movement,major,2024-02-04 10:00,97,20,2,False
+INC_0377,RD_020,Kamarajar Salai Marina,13.059144,80.284528,flood,major,2024-05-25 07:00,229,26,4,False
+INC_0378,RD_027,Road Segment 27,12.887798,80.128915,accident,critical,2024-11-24 22:00,61,52,5,True
+INC_0379,RD_041,Road Segment 41,13.026595,80.12542,accident,minor,2024-06-30 20:00,223,4,2,True
+INC_0380,RD_005,NH-16 (Chennai-Kolkata Highway),13.153192,80.288685,road_block,major,2024-08-14 20:00,73,30,6,True
+INC_0381,RD_069,Road Segment 69,12.985687,80.401443,breakdown,minor,2024-10-16 06:00,219,11,3,False
+INC_0382,RD_080,Road Segment 80,12.977837,80.148426,breakdown,minor,2024-09-16 01:00,65,14,3,False
+INC_0383,RD_006,Rajiv Gandhi Salai (IT Corridor),12.959098,80.243187,protest,major,2024-07-27 04:00,31,30,3,True
+INC_0384,RD_038,Road Segment 38,13.026189,80.368301,construction,minor,2024-01-19 13:00,32,12,1,False
+INC_0385,RD_022,Road Segment 22,12.900788,80.132111,construction,minor,2024-03-18 09:00,146,15,6,False
+INC_0386,RD_069,Road Segment 69,12.981929,80.395812,construction,critical,2024-11-12 16:00,224,50,1,True
+INC_0387,RD_069,Road Segment 69,12.983118,80.397884,breakdown,minor,2024-04-29 02:00,15,9,3,True
+INC_0388,RD_050,Road Segment 50,13.020826,80.135679,flood,major,2024-06-13 04:00,30,22,4,True
+INC_0389,RD_010,Outer Ring Road,12.998881,80.144924,protest,minor,2024-10-24 15:00,58,5,5,True
+INC_0390,RD_062,Road Segment 62,12.973324,80.229662,flood,minor,2024-12-05 13:00,70,4,6,False
+INC_0391,RD_034,Road Segment 34,12.903167,80.318292,flood,critical,2024-04-12 08:00,140,44,4,False
+INC_0392,RD_056,Road Segment 56,13.004182,80.171613,flood,minor,2024-08-18 22:00,186,12,2,True
+INC_0393,RD_050,Road Segment 50,13.020785,80.137691,road_block,major,2024-01-31 13:00,31,20,2,True
+INC_0394,RD_063,Road Segment 63,13.191834,80.124183,construction,minor,2024-08-08 10:00,31,10,3,False
+INC_0395,RD_076,Road Segment 76,13.084683,80.193043,accident,major,2024-02-16 04:00,239,22,4,True
+INC_0396,RD_038,Road Segment 38,13.027322,80.367134,vip_movement,minor,2024-11-03 05:00,50,8,2,True
+INC_0397,RD_073,Road Segment 73,12.881844,80.153042,accident,minor,2024-06-08 08:00,50,11,6,True
+INC_0398,RD_038,Road Segment 38,13.027883,80.365351,construction,critical,2024-10-02 07:00,20,55,2,True
+INC_0399,RD_049,Road Segment 49,13.119611,80.26687,accident,minor,2024-10-27 19:00,202,11,3,True

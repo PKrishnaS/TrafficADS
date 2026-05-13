@@ -1,0 +1,801 @@
+poi_id,name,category,latitude,longitude,rating,open_now,open_hours,road_name
+POI_0000,Fortis Malar,hospital,12.982391,80.400237,3.1,False,6AM-10PM,Road Segment 69
+POI_0001,Stanley Medical,hospital,13.019055,80.160695,2.9,True,9AM-8PM,Road Segment 56
+POI_0002,SRM Hospital,hospital,13.106925,80.300643,4.7,True,8AM-9PM,Road Segment 33
+POI_0003,Vijaya Hospital,hospital,12.962288,80.178031,2.8,True,24/7,GST Road
+POI_0004,Fortis Malar,hospital,13.055569,80.131314,3.5,True,8AM-9PM,Poonamallee High Road
+POI_0005,Stanley Medical,hospital,12.849391,80.255069,4.0,False,24/7,ECR (East Coast Road)
+POI_0006,Apollo Hospital,hospital,13.099748,80.121064,3.6,True,6AM-10PM,Road Segment 58
+POI_0007,Stanley Medical,hospital,13.02765,80.178463,3.1,True,9AM-8PM,Road Segment 56
+POI_0008,Stanley Medical,hospital,12.905113,80.236915,2.8,True,9AM-8PM,OMR (Old Mahabalipuram Road)
+POI_0009,SRM Hospital,hospital,13.04136,80.167046,4.0,True,8AM-9PM,Road Segment 57
+POI_0010,Govt General Hospital,hospital,13.08483,80.114151,4.1,False,6AM-10PM,Road Segment 21
+POI_0011,Vijaya Hospital,hospital,13.012011,80.263055,5.0,False,8AM-9PM,Road Segment 53
+POI_0012,Stanley Medical,hospital,13.204827,80.335884,3.7,True,9AM-8PM,Road Segment 67
+POI_0013,Fortis Malar,hospital,13.190806,80.345739,4.2,True,6AM-10PM,Road Segment 67
+POI_0014,Fortis Malar,hospital,13.098775,80.113613,3.6,True,8AM-9PM,Road Segment 30
+POI_0015,Govt General Hospital,hospital,13.136492,80.27401,3.6,True,6AM-10PM,NH-16 (Chennai-Kolkata Highway)
+POI_0016,Sri Ramachandra,hospital,13.00305,80.175285,3.7,False,8AM-9PM,Road Segment 56
+POI_0017,Apollo Hospital,hospital,12.981486,80.113472,3.1,True,24/7,Grand Southern Trunk Road
+POI_0018,SRM Hospital,hospital,12.919789,80.324875,3.2,True,8AM-9PM,Road Segment 34
+POI_0019,Apollo Hospital,hospital,12.911554,80.178906,4.0,True,8AM-9PM,Road Segment 79
+POI_0020,Apollo Hospital,hospital,13.122193,80.260848,4.5,True,24/7,Road Segment 49
+POI_0021,MIOT International,hospital,13.000397,80.250688,3.5,True,8AM-9PM,Road Segment 68
+POI_0022,Govt General Hospital,hospital,13.003565,80.170621,4.5,True,9AM-8PM,Road Segment 54
+POI_0023,Vijaya Hospital,hospital,12.860665,80.173742,3.5,True,9AM-8PM,Road Segment 59
+POI_0024,SRM Hospital,hospital,12.928405,80.379222,4.1,False,9AM-8PM,Road Segment 35
+POI_0025,SRM Hospital,hospital,13.034014,80.250055,3.3,True,24/7,Road Segment 53
+POI_0026,SRM Hospital,hospital,13.048547,80.259982,4.6,False,24/7,Patel Road T Nagar
+POI_0027,MIOT International,hospital,13.067057,80.228868,4.0,True,9AM-8PM,Nungambakkam High Road
+POI_0028,Apollo Hospital,hospital,12.906495,80.310096,3.9,True,8AM-9PM,Road Segment 34
+POI_0029,Fortis Malar,hospital,12.97785,80.100138,3.1,True,8AM-9PM,Grand Southern Trunk Road
+POI_0030,Fortis Malar,hospital,12.903238,80.114677,3.4,True,24/7,Road Segment 22
+POI_0031,MIOT International,hospital,13.05484,80.250441,4.4,True,24/7,Patel Road T Nagar
+POI_0032,Vijaya Hospital,hospital,13.011787,80.403327,4.5,False,8AM-9PM,Road Segment 78
+POI_0033,Apollo Hospital,hospital,13.000274,80.249247,2.9,False,24/7,Road Segment 53
+POI_0034,Apollo Hospital,hospital,13.06992,80.326079,3.5,True,6AM-10PM,Road Segment 42
+POI_0035,Govt General Hospital,hospital,13.097115,80.303733,4.8,True,6AM-10PM,Road Segment 33
+POI_0036,Apollo Hospital,hospital,12.994753,80.223013,3.6,False,8AM-9PM,Road Segment 65
+POI_0037,Apollo Hospital,hospital,12.89802,80.400386,4.4,False,9AM-8PM,Road Segment 60
+POI_0038,MIOT International,hospital,12.88897,80.234833,4.2,False,9AM-8PM,Road Segment 46
+POI_0039,Sri Ramachandra,hospital,13.059155,80.236211,3.6,True,8AM-9PM,Nungambakkam High Road
+POI_0040,MIOT International,hospital,13.198285,80.342774,4.6,True,9AM-8PM,Road Segment 67
+POI_0041,Apollo Hospital,hospital,12.864353,80.271303,3.7,True,24/7,Road Segment 72
+POI_0042,Vijaya Hospital,hospital,13.149262,80.284684,3.7,True,24/7,NH-16 (Chennai-Kolkata Highway)
+POI_0043,Apollo Hospital,hospital,13.028144,80.257379,4.0,True,24/7,Road Segment 53
+POI_0044,MIOT International,hospital,13.015344,80.234647,4.4,True,6AM-10PM,Road Segment 65
+POI_0045,Stanley Medical,hospital,12.9695,80.242669,3.5,True,8AM-9PM,Rajiv Gandhi Salai (IT Corridor)
+POI_0046,Apollo Hospital,hospital,13.069845,80.106698,3.8,False,8AM-9PM,Road Segment 21
+POI_0047,Fortis Malar,hospital,13.196682,80.355438,4.8,True,8AM-9PM,Road Segment 44
+POI_0048,Vijaya Hospital,hospital,12.874431,80.169526,3.9,True,8AM-9PM,Road Segment 59
+POI_0049,Apollo Hospital,hospital,12.888393,80.124432,3.3,False,9AM-8PM,Road Segment 27
+POI_0050,Stanley Medical,hospital,12.907555,80.124458,4.2,True,8AM-9PM,Road Segment 22
+POI_0051,Sri Ramachandra,hospital,12.914612,80.120186,4.4,True,8AM-9PM,Road Segment 22
+POI_0052,Apollo Hospital,hospital,13.132368,80.32201,4.9,True,8AM-9PM,Road Segment 28
+POI_0053,SRM Hospital,hospital,13.14019,80.173734,4.9,True,24/7,Road Segment 61
+POI_0054,Vijaya Hospital,hospital,13.036433,80.251723,4.2,True,9AM-8PM,Road Segment 53
+POI_0055,Stanley Medical,hospital,13.060113,80.300119,3.5,True,8AM-9PM,Kamarajar Salai Marina
+POI_0056,Govt General Hospital,hospital,13.091415,80.224445,4.4,True,8AM-9PM,Road Segment 32
+POI_0057,MIOT International,hospital,13.016644,80.364092,4.6,False,6AM-10PM,Road Segment 38
+POI_0058,Govt General Hospital,hospital,13.026066,80.128721,4.9,True,8AM-9PM,Road Segment 41
+POI_0059,Apollo Hospital,hospital,13.039427,80.244744,3.1,False,24/7,Usman Road T Nagar
+POI_0060,Stanley Medical,hospital,12.988714,80.365266,4.2,True,8AM-9PM,Road Segment 74
+POI_0061,Govt General Hospital,hospital,12.903891,80.390542,3.8,True,6AM-10PM,Road Segment 60
+POI_0062,Vijaya Hospital,hospital,12.984477,80.099135,3.2,True,6AM-10PM,Grand Southern Trunk Road
+POI_0063,Fortis Malar,hospital,13.179107,80.360894,4.2,True,9AM-8PM,Road Segment 44
+POI_0064,MIOT International,hospital,12.994165,80.304569,4.5,True,9AM-8PM,Road Segment 55
+POI_0065,SRM Hospital,hospital,13.188358,80.34856,3.1,True,24/7,Road Segment 67
+POI_0066,Stanley Medical,hospital,12.926351,80.131269,3.1,True,6AM-10PM,Road Segment 22
+POI_0067,Stanley Medical,hospital,12.887119,80.176015,3.6,True,24/7,Road Segment 59
+POI_0068,Govt General Hospital,hospital,12.903654,80.307097,3.1,True,24/7,Road Segment 34
+POI_0069,Sri Ramachandra,hospital,12.874935,80.125865,4.9,False,24/7,Road Segment 75
+POI_0070,Essar,fuel_station,12.850713,80.109151,3.2,False,8AM-9PM,Road Segment 23
+POI_0071,HP Petrol Bunk,fuel_station,12.921354,80.218719,4.7,True,24/7,OMR (Old Mahabalipuram Road)
+POI_0072,HP Petrol Bunk,fuel_station,12.97544,80.393082,3.7,True,8AM-9PM,Road Segment 71
+POI_0073,BPCL,fuel_station,12.895171,80.131974,4.2,False,9AM-8PM,Road Segment 22
+POI_0074,Reliance,fuel_station,12.895298,80.235651,3.7,True,6AM-10PM,Road Segment 46
+POI_0075,HP Petrol Bunk,fuel_station,13.142551,80.274884,4.3,True,9AM-8PM,NH-16 (Chennai-Kolkata Highway)
+POI_0076,Essar,fuel_station,13.065784,80.152485,4.7,False,6AM-10PM,Poonamallee High Road
+POI_0077,Indian Oil,fuel_station,13.130447,80.320566,4.5,False,9AM-8PM,Road Segment 28
+POI_0078,HP Petrol Bunk,fuel_station,12.973988,80.132482,4.1,True,9AM-8PM,Road Segment 80
+POI_0079,HP Petrol Bunk,fuel_station,13.1476,80.172407,4.3,False,8AM-9PM,Road Segment 61
+POI_0080,Shell,fuel_station,13.196496,80.353068,4.4,True,24/7,Road Segment 67
+POI_0081,Indian Oil,fuel_station,13.022474,80.37384,2.8,False,6AM-10PM,Road Segment 38
+POI_0082,Indian Oil,fuel_station,13.002161,80.148051,4.7,False,9AM-8PM,Outer Ring Road
+POI_0083,BPCL,fuel_station,12.978726,80.231886,3.3,True,6AM-10PM,Road Segment 68
+POI_0084,Reliance,fuel_station,13.008535,80.398814,3.5,True,8AM-9PM,Road Segment 78
+POI_0085,HP Petrol Bunk,fuel_station,12.988164,80.39297,3.2,True,24/7,Road Segment 70
+POI_0086,BPCL,fuel_station,12.986066,80.253141,4.3,True,6AM-10PM,Road Segment 68
+POI_0087,Bharat Petroleum,fuel_station,13.046082,80.352912,4.5,True,24/7,Road Segment 29
+POI_0088,Essar,fuel_station,13.160124,80.204895,4.5,True,9AM-8PM,Road Segment 48
+POI_0089,Essar,fuel_station,12.951055,80.393801,3.5,True,24/7,Road Segment 71
+POI_0090,HP Petrol Bunk,fuel_station,13.075164,80.281658,4.6,True,8AM-9PM,Kamarajar Salai Marina
+POI_0091,Shell,fuel_station,12.8722,80.36108,4.2,True,9AM-8PM,Road Segment 51
+POI_0092,Shell,fuel_station,13.01036,80.223303,3.8,True,24/7,Road Segment 65
+POI_0093,Reliance,fuel_station,13.102485,80.11985,4.6,True,6AM-10PM,Road Segment 30
+POI_0094,Shell,fuel_station,13.003305,80.13802,3.5,True,9AM-8PM,Road Segment 54
+POI_0095,Reliance,fuel_station,13.00262,80.378112,4.7,False,8AM-9PM,Road Segment 70
+POI_0096,Bharat Petroleum,fuel_station,12.964782,80.234847,3.0,True,8AM-9PM,Velachery Main Road
+POI_0097,Shell,fuel_station,12.977745,80.222532,4.4,False,24/7,Road Segment 62
+POI_0098,Reliance,fuel_station,13.064164,80.284765,4.9,True,24/7,Kamarajar Salai Marina
+POI_0099,BPCL,fuel_station,13.022519,80.175177,4.3,False,8AM-9PM,Road Segment 56
+POI_0100,Shell,fuel_station,12.891884,80.129781,3.2,False,8AM-9PM,Road Segment 27
+POI_0101,HP Petrol Bunk,fuel_station,12.972457,80.125769,2.9,True,8AM-9PM,Grand Southern Trunk Road
+POI_0102,Reliance,fuel_station,12.916491,80.141321,3.2,False,8AM-9PM,Road Segment 22
+POI_0103,Essar,fuel_station,12.864658,80.12533,4.7,True,8AM-9PM,Road Segment 23
+POI_0104,Essar,fuel_station,13.012466,80.163648,4.3,True,8AM-9PM,Road Segment 56
+POI_0105,BPCL,fuel_station,13.054921,80.160491,3.8,True,6AM-10PM,Road Segment 57
+POI_0106,Bharat Petroleum,fuel_station,13.063815,80.258993,3.0,False,6AM-10PM,Anna Salai (Mount Road)
+POI_0107,Bharat Petroleum,fuel_station,13.042222,80.105149,5.0,True,6AM-10PM,Road Segment 21
+POI_0108,Indian Oil,fuel_station,12.989217,80.13903,3.4,False,8AM-9PM,Road Segment 80
+POI_0109,Bharat Petroleum,fuel_station,13.112601,80.267194,4.1,True,8AM-9PM,Road Segment 49
+POI_0110,Indian Oil,fuel_station,12.874799,80.153203,3.7,True,9AM-8PM,Road Segment 73
+POI_0111,HP Petrol Bunk,fuel_station,13.087986,80.185426,3.6,False,24/7,Road Segment 76
+POI_0112,Indian Oil,fuel_station,13.040113,80.121178,4.9,True,8AM-9PM,Road Segment 41
+POI_0113,HP Petrol Bunk,fuel_station,13.063398,80.109744,3.6,True,24/7,Road Segment 21
+POI_0114,Reliance,fuel_station,12.874091,80.159966,4.7,True,24/7,Road Segment 24
+POI_0115,BPCL,fuel_station,12.873742,80.290544,4.8,True,8AM-9PM,Road Segment 72
+POI_0116,Indian Oil,fuel_station,13.194515,80.35277,3.7,True,8AM-9PM,Road Segment 67
+POI_0117,BPCL,fuel_station,13.059111,80.220679,3.0,True,9AM-8PM,Road Segment 32
+POI_0118,Essar,fuel_station,13.024934,80.137883,3.5,False,6AM-10PM,Poonamallee High Road
+POI_0119,Indian Oil,fuel_station,13.140718,80.36698,4.8,True,8AM-9PM,Road Segment 31
+POI_0120,HP Petrol Bunk,fuel_station,13.214109,80.351303,3.8,True,24/7,Road Segment 67
+POI_0121,BPCL,fuel_station,12.886357,80.155575,3.3,True,9AM-8PM,Road Segment 73
+POI_0122,Indian Oil,fuel_station,13.021794,80.209379,3.6,True,6AM-10PM,Inner Ring Road
+POI_0123,Reliance,fuel_station,13.011594,80.2946,4.4,False,8AM-9PM,Road Segment 40
+POI_0124,HP Petrol Bunk,fuel_station,13.021666,80.222314,4.4,False,6AM-10PM,Inner Ring Road
+POI_0125,HP Petrol Bunk,fuel_station,13.073782,80.19343,3.8,True,24/7,Road Segment 76
+POI_0126,Bharat Petroleum,fuel_station,13.017135,80.169918,3.1,False,9AM-8PM,Road Segment 56
+POI_0127,Reliance,fuel_station,13.001172,80.22762,4.7,True,8AM-9PM,Road Segment 65
+POI_0128,Reliance,fuel_station,12.882957,80.291399,4.2,True,6AM-10PM,Road Segment 72
+POI_0129,Reliance,fuel_station,13.00422,80.220765,4.4,True,9AM-8PM,Road Segment 65
+POI_0130,HP Petrol Bunk,fuel_station,12.996427,80.407388,3.2,False,9AM-8PM,Road Segment 69
+POI_0131,Bharat Petroleum,fuel_station,13.15826,80.332535,3.4,True,24/7,Road Segment 36
+POI_0132,Essar,fuel_station,13.006022,80.260933,4.7,True,8AM-9PM,Road Segment 68
+POI_0133,HP Petrol Bunk,fuel_station,13.144655,80.176021,3.9,True,8AM-9PM,Road Segment 48
+POI_0134,Reliance,fuel_station,13.058755,80.290728,2.9,False,9AM-8PM,Kamarajar Salai Marina
+POI_0135,Essar,fuel_station,13.160549,80.272217,4.9,True,6AM-10PM,NH-16 (Chennai-Kolkata Highway)
+POI_0136,Bharat Petroleum,fuel_station,13.056935,80.151744,2.9,True,9AM-8PM,Poonamallee High Road
+POI_0137,Shell,fuel_station,12.980519,80.27187,4.5,True,9AM-8PM,Road Segment 43
+POI_0138,Essar,fuel_station,12.863804,80.179602,3.0,True,8AM-9PM,Road Segment 73
+POI_0139,HP Petrol Bunk,fuel_station,12.851228,80.267709,3.5,True,24/7,Road Segment 72
+POI_0140,Reliance,fuel_station,13.104066,80.112327,4.1,True,8AM-9PM,Road Segment 58
+POI_0141,Essar,fuel_station,12.894791,80.375591,3.9,True,6AM-10PM,Road Segment 60
+POI_0142,Indian Oil,fuel_station,12.903906,80.222517,3.1,True,8AM-9PM,OMR (Old Mahabalipuram Road)
+POI_0143,Indian Oil,fuel_station,13.059241,80.180982,3.9,True,6AM-10PM,100 Feet Road Vadapalani
+POI_0144,Reliance,fuel_station,13.068554,80.173114,2.8,False,6AM-10PM,Road Segment 57
+POI_0145,Indian Oil,fuel_station,12.980567,80.267192,3.9,False,24/7,Road Segment 43
+POI_0146,Shell,fuel_station,13.004407,80.24066,2.9,False,8AM-9PM,Road Segment 68
+POI_0147,Indian Oil,fuel_station,12.895763,80.37098,3.7,True,24/7,Road Segment 60
+POI_0148,Bharat Petroleum,fuel_station,12.958101,80.227935,4.6,True,9AM-8PM,Rajiv Gandhi Salai (IT Corridor)
+POI_0149,BPCL,fuel_station,13.088342,80.194166,3.8,True,6AM-10PM,Road Segment 76
+POI_0150,Nilgiris,shop,13.048268,80.209854,2.8,False,8AM-9PM,100 Feet Road Vadapalani
+POI_0151,Saravana Stores,shop,12.884497,80.12005,4.4,False,9AM-8PM,Road Segment 22
+POI_0152,Saravana Stores,shop,12.986282,80.182967,4.8,True,6AM-10PM,Road Segment 26
+POI_0153,Nilgiris,shop,13.079791,80.270793,2.9,True,8AM-9PM,Anna Salai (Mount Road)
+POI_0154,Poorvika,shop,13.118976,80.319461,4.1,True,6AM-10PM,Road Segment 28
+POI_0155,Poorvika,shop,13.177834,80.180637,3.8,True,8AM-9PM,Road Segment 47
+POI_0156,Spencer's,shop,13.077391,80.198262,3.3,True,24/7,Road Segment 76
+POI_0157,Big Bazaar,shop,13.069546,80.249289,4.3,True,6AM-10PM,Cathedral Road
+POI_0158,DMart,shop,12.930205,80.236775,4.4,False,8AM-9PM,OMR (Old Mahabalipuram Road)
+POI_0159,Spencer's,shop,13.06695,80.250483,3.6,True,8AM-9PM,Nungambakkam High Road
+POI_0160,Reliance Fresh,shop,13.05907,80.195066,3.1,False,6AM-10PM,100 Feet Road Vadapalani
+POI_0161,Spencer's,shop,13.16007,80.293108,4.4,True,6AM-10PM,NH-16 (Chennai-Kolkata Highway)
+POI_0162,Poorvika,shop,12.91107,80.309107,4.7,True,9AM-8PM,Road Segment 34
+POI_0163,Big Bazaar,shop,13.064679,80.20603,4.1,True,24/7,Arcot Road
+POI_0164,More Supermarket,shop,12.910247,80.321024,4.1,False,6AM-10PM,Road Segment 34
+POI_0165,DMart,shop,12.840776,80.168231,4.1,False,24/7,Road Segment 24
+POI_0166,Big Bazaar,shop,12.88935,80.366084,4.7,True,8AM-9PM,Road Segment 45
+POI_0167,More Supermarket,shop,12.908141,80.131571,3.5,True,8AM-9PM,Road Segment 22
+POI_0168,Lifestyle,shop,13.065967,80.208608,4.3,True,8AM-9PM,100 Feet Road Vadapalani
+POI_0169,Nilgiris,shop,13.058711,80.264752,2.9,True,24/7,Anna Salai (Mount Road)
+POI_0170,DMart,shop,13.156875,80.193548,3.1,True,24/7,Road Segment 48
+POI_0171,More Supermarket,shop,13.000506,80.396533,4.7,True,8AM-9PM,Road Segment 70
+POI_0172,DMart,shop,13.000392,80.286034,3.8,True,9AM-8PM,Road Segment 40
+POI_0173,Spencer's,shop,13.149293,80.338981,4.9,True,9AM-8PM,Road Segment 31
+POI_0174,Spencer's,shop,12.871694,80.172148,3.4,True,6AM-10PM,Road Segment 59
+POI_0175,Spencer's,shop,13.041096,80.134651,4.3,True,8AM-9PM,Road Segment 50
+POI_0176,Poorvika,shop,12.863711,80.150605,3.6,True,24/7,Road Segment 23
+POI_0177,Reliance Fresh,shop,12.980704,80.107645,3.8,True,6AM-10PM,Grand Southern Trunk Road
+POI_0178,Big Bazaar,shop,13.086137,80.192526,3.7,True,24/7,Road Segment 76
+POI_0179,Croma,shop,12.977142,80.23297,4.3,True,6AM-10PM,Road Segment 62
+POI_0180,Spencer's,shop,12.981226,80.373102,4.1,True,6AM-10PM,Road Segment 74
+POI_0181,Spencer's,shop,13.045392,80.341837,4.1,False,6AM-10PM,Road Segment 25
+POI_0182,More Supermarket,shop,13.111111,80.279911,4.1,True,8AM-9PM,Road Segment 49
+POI_0183,Lifestyle,shop,13.097028,80.191841,4.5,False,8AM-9PM,Road Segment 76
+POI_0184,Poorvika,shop,13.059621,80.258436,2.8,True,9AM-8PM,Anna Salai (Mount Road)
+POI_0185,Croma,shop,12.957636,80.377192,4.1,True,8AM-9PM,Road Segment 35
+POI_0186,Spencer's,shop,13.137964,80.344869,2.9,False,9AM-8PM,Road Segment 36
+POI_0187,Saravana Stores,shop,13.161956,80.164579,3.0,True,9AM-8PM,Road Segment 48
+POI_0188,Nilgiris,shop,12.851146,80.235873,3.7,True,9AM-8PM,ECR (East Coast Road)
+POI_0189,Reliance Fresh,shop,12.993221,80.299591,4.7,True,6AM-10PM,Road Segment 55
+POI_0190,DMart,shop,12.891164,80.234845,4.3,True,9AM-8PM,Road Segment 46
+POI_0191,Poorvika,shop,13.057221,80.157308,4.2,False,24/7,Road Segment 57
+POI_0192,Poorvika,shop,12.883484,80.287906,3.6,False,24/7,Road Segment 72
+POI_0193,Poorvika,shop,12.990918,80.184419,4.9,True,6AM-10PM,Road Segment 26
+POI_0194,Saravana Stores,shop,13.181044,80.366005,3.4,False,24/7,Road Segment 44
+POI_0195,Big Bazaar,shop,12.919495,80.305448,4.6,True,8AM-9PM,Road Segment 34
+POI_0196,More Supermarket,shop,12.982612,80.221381,3.9,True,24/7,Velachery Main Road
+POI_0197,Nilgiris,shop,12.946844,80.371989,2.9,True,6AM-10PM,Road Segment 35
+POI_0198,More Supermarket,shop,12.862317,80.350668,2.9,False,24/7,Road Segment 51
+POI_0199,Reliance Fresh,shop,13.105677,80.09246,3.2,True,24/7,Road Segment 58
+POI_0200,Reliance Fresh,shop,13.058965,80.213361,4.4,True,9AM-8PM,Patel Road T Nagar
+POI_0201,Lifestyle,shop,13.157273,80.114239,4.4,True,24/7,Road Segment 66
+POI_0202,DMart,shop,13.005421,80.138635,4.4,True,24/7,Outer Ring Road
+POI_0203,Spencer's,shop,13.069541,80.209158,4.2,True,8AM-9PM,Arcot Road
+POI_0204,Big Bazaar,shop,13.151796,80.371083,3.1,False,8AM-9PM,Road Segment 31
+POI_0205,Big Bazaar,shop,13.052722,80.241071,4.0,True,9AM-8PM,Patel Road T Nagar
+POI_0206,Poorvika,shop,13.045557,80.202522,4.3,True,6AM-10PM,Arcot Road
+POI_0207,Lifestyle,shop,13.026215,80.372811,3.2,True,6AM-10PM,Road Segment 38
+POI_0208,Nilgiris,shop,13.068903,80.208017,4.6,True,9AM-8PM,Road Segment 32
+POI_0209,Reliance Fresh,shop,12.998663,80.251922,3.9,False,6AM-10PM,Road Segment 68
+POI_0210,Reliance Fresh,shop,12.979847,80.399288,3.7,False,24/7,Road Segment 69
+POI_0211,Lifestyle,shop,13.135665,80.14564,2.9,True,24/7,Road Segment 61
+POI_0212,Nilgiris,shop,12.962393,80.204158,4.2,True,24/7,Road Segment 62
+POI_0213,More Supermarket,shop,13.060262,80.234395,2.8,True,8AM-9PM,Cathedral Road
+POI_0214,Reliance Fresh,shop,13.121402,80.367842,4.3,True,9AM-8PM,Road Segment 31
+POI_0215,Saravana Stores,shop,12.978825,80.120358,3.8,True,8AM-9PM,Grand Southern Trunk Road
+POI_0216,Lifestyle,shop,12.983024,80.231915,4.4,True,8AM-9PM,Road Segment 68
+POI_0217,Reliance Fresh,shop,12.954922,80.243153,4.2,True,8AM-9PM,Rajiv Gandhi Salai (IT Corridor)
+POI_0218,Reliance Fresh,shop,12.994516,80.119423,4.3,True,8AM-9PM,Road Segment 37
+POI_0219,Lifestyle,shop,13.049278,80.333728,3.6,True,6AM-10PM,Road Segment 25
+POI_0220,Big Bazaar,shop,13.007711,80.239889,2.9,False,6AM-10PM,Road Segment 65
+POI_0221,Lifestyle,shop,12.852535,80.187883,4.6,False,8AM-9PM,Road Segment 24
+POI_0222,Big Bazaar,shop,12.994355,80.170985,4.4,True,8AM-9PM,Road Segment 54
+POI_0223,Nilgiris,shop,13.193998,80.140278,4.3,True,6AM-10PM,Road Segment 63
+POI_0224,Reliance Fresh,shop,13.019522,80.121045,3.4,True,8AM-9PM,Road Segment 41
+POI_0225,Spencer's,shop,13.0518,80.178182,3.8,True,6AM-10PM,Road Segment 57
+POI_0226,Lifestyle,shop,13.151211,80.121351,3.3,False,8AM-9PM,Road Segment 66
+POI_0227,More Supermarket,shop,13.049302,80.240335,3.7,False,9AM-8PM,Patel Road T Nagar
+POI_0228,Spencer's,shop,13.063285,80.261414,4.4,True,24/7,Cathedral Road
+POI_0229,Croma,shop,13.185014,80.135797,3.8,True,6AM-10PM,Road Segment 63
+POI_0230,Croma,shop,13.187874,80.354937,4.9,False,6AM-10PM,Road Segment 67
+POI_0231,Nilgiris,shop,12.897319,80.375049,4.9,True,8AM-9PM,Road Segment 45
+POI_0232,DMart,shop,13.077804,80.331314,3.0,True,6AM-10PM,Road Segment 42
+POI_0233,Croma,shop,12.8619,80.27066,3.3,False,8AM-9PM,ECR (East Coast Road)
+POI_0234,More Supermarket,shop,12.985554,80.251725,4.3,False,24/7,Road Segment 43
+POI_0235,Big Bazaar,shop,12.99901,80.18241,4.8,True,9AM-8PM,Road Segment 26
+POI_0236,Big Bazaar,shop,13.004488,80.217042,4.4,True,9AM-8PM,Road Segment 65
+POI_0237,Spencer's,shop,13.132978,80.353315,4.6,True,8AM-9PM,Road Segment 31
+POI_0238,Big Bazaar,shop,12.972963,80.21557,3.4,True,8AM-9PM,Road Segment 62
+POI_0239,Saravana Stores,shop,13.054916,80.243772,4.8,True,9AM-8PM,Usman Road T Nagar
+POI_0240,Reliance Fresh,shop,12.914903,80.172033,3.8,False,24/7,Road Segment 79
+POI_0241,Spencer's,shop,13.004186,80.261315,3.9,True,9AM-8PM,Road Segment 53
+POI_0242,Reliance Fresh,shop,12.948417,80.365196,4.5,True,24/7,Road Segment 35
+POI_0243,Saravana Stores,shop,13.002284,80.227926,3.7,False,8AM-9PM,Road Segment 65
+POI_0244,Croma,shop,13.000139,80.214401,3.6,False,8AM-9PM,Road Segment 65
+POI_0245,More Supermarket,shop,12.996261,80.156633,2.9,False,6AM-10PM,Outer Ring Road
+POI_0246,Big Bazaar,shop,13.032479,80.339367,4.9,True,6AM-10PM,Road Segment 29
+POI_0247,Saravana Stores,shop,13.10812,80.110617,4.8,True,6AM-10PM,Road Segment 58
+POI_0248,More Supermarket,shop,13.013898,80.255049,3.1,True,24/7,Road Segment 53
+POI_0249,Croma,shop,13.127406,80.158877,4.5,True,6AM-10PM,Road Segment 61
+POI_0250,Lifestyle,shop,13.143922,80.322308,4.3,True,24/7,Road Segment 36
+POI_0251,Lifestyle,shop,13.085823,80.123829,3.9,True,8AM-9PM,Road Segment 58
+POI_0252,Lifestyle,shop,13.021735,80.136013,4.1,False,6AM-10PM,Road Segment 50
+POI_0253,Saravana Stores,shop,13.056352,80.346691,4.9,True,8AM-9PM,Road Segment 25
+POI_0254,Reliance Fresh,shop,12.977384,80.104084,2.9,True,9AM-8PM,Grand Southern Trunk Road
+POI_0255,Lifestyle,shop,12.902419,80.320565,4.9,True,6AM-10PM,Road Segment 34
+POI_0256,Saravana Stores,shop,12.990585,80.274128,3.5,True,8AM-9PM,LB Road Adyar
+POI_0257,Big Bazaar,shop,12.985203,80.282161,4.7,True,24/7,Road Segment 43
+POI_0258,Nilgiris,shop,12.874027,80.269529,5.0,True,8AM-9PM,Road Segment 72
+POI_0259,Reliance Fresh,shop,13.027413,80.247233,3.2,True,8AM-9PM,Usman Road T Nagar
+POI_0260,More Supermarket,shop,13.127149,80.301608,4.8,True,24/7,Road Segment 28
+POI_0261,Big Bazaar,shop,13.022002,80.341439,3.1,True,6AM-10PM,Road Segment 38
+POI_0262,Saravana Stores,shop,13.043109,80.351679,2.9,True,24/7,Road Segment 29
+POI_0263,Big Bazaar,shop,13.068157,80.32675,4.3,True,9AM-8PM,Road Segment 42
+POI_0264,Nilgiris,shop,13.086145,80.26294,3.7,True,24/7,Anna Salai (Mount Road)
+POI_0265,Big Bazaar,shop,13.085811,80.168793,3.2,True,8AM-9PM,Road Segment 77
+POI_0266,Reliance Fresh,shop,13.057768,80.085384,3.9,False,6AM-10PM,Road Segment 21
+POI_0267,Lifestyle,shop,12.94067,80.396276,2.9,False,6AM-10PM,Road Segment 71
+POI_0268,Poorvika,shop,12.992683,80.199053,4.8,True,8AM-9PM,Road Segment 26
+POI_0269,Reliance Fresh,shop,12.977361,80.193504,3.2,True,9AM-8PM,GST Road
+POI_0270,Saravana Bhavan,restaurant,13.017461,80.123396,3.4,True,8AM-9PM,Road Segment 50
+POI_0271,Dominos,restaurant,13.027852,80.202079,4.3,True,8AM-9PM,Inner Ring Road
+POI_0272,Adyar Ananda Bhavan,restaurant,13.000472,80.386938,3.9,True,9AM-8PM,Road Segment 74
+POI_0273,KFC,restaurant,13.201141,80.139273,4.8,True,8AM-9PM,Road Segment 63
+POI_0274,KFC,restaurant,13.014262,80.104994,5.0,False,8AM-9PM,Road Segment 50
+POI_0275,Saravana Bhavan,restaurant,13.202853,80.362714,3.5,True,24/7,Road Segment 67
+POI_0276,Adyar Ananda Bhavan,restaurant,13.036382,80.123032,3.2,True,9AM-8PM,Road Segment 52
+POI_0277,Adyar Ananda Bhavan,restaurant,13.013569,80.255682,4.0,False,24/7,Road Segment 53
+POI_0278,Burger King,restaurant,13.078905,80.103493,4.8,True,9AM-8PM,Road Segment 21
+POI_0279,Dominos,restaurant,13.046646,80.170364,4.3,False,6AM-10PM,Road Segment 57
+POI_0280,McDonald's,restaurant,13.061361,80.16767,4.8,True,9AM-8PM,Road Segment 57
+POI_0281,Saravana Bhavan,restaurant,12.987086,80.248467,3.9,True,6AM-10PM,Road Segment 68
+POI_0282,Anjappar,restaurant,12.982654,80.159398,4.6,True,8AM-9PM,Road Segment 54
+POI_0283,Anjappar,restaurant,12.950129,80.389875,3.7,True,24/7,Road Segment 71
+POI_0284,McDonald's,restaurant,12.997805,80.390375,3.3,True,24/7,Road Segment 74
+POI_0285,Anjappar,restaurant,12.973996,80.285439,4.5,False,24/7,Road Segment 43
+POI_0286,Anjappar,restaurant,13.023954,80.128685,4.3,True,8AM-9PM,Road Segment 41
+POI_0287,Subway,restaurant,12.990318,80.406028,3.9,True,6AM-10PM,Road Segment 78
+POI_0288,Adyar Ananda Bhavan,restaurant,13.001845,80.144047,3.3,True,8AM-9PM,Outer Ring Road
+POI_0289,Buhari,restaurant,13.039297,80.143356,3.5,True,8AM-9PM,Poonamallee High Road
+POI_0290,Saravana Bhavan,restaurant,12.852553,80.166577,4.3,True,9AM-8PM,Road Segment 24
+POI_0291,Pizza Hut,restaurant,13.133001,80.142319,3.6,True,9AM-8PM,Road Segment 64
+POI_0292,Burger King,restaurant,13.136931,80.162631,3.2,True,24/7,Road Segment 61
+POI_0293,Adyar Ananda Bhavan,restaurant,12.902767,80.121232,4.7,True,8AM-9PM,Road Segment 22
+POI_0294,Murugan Idli,restaurant,13.094564,80.197343,4.8,True,9AM-8PM,Road Segment 76
+POI_0295,Burger King,restaurant,12.868348,80.141307,3.3,True,24/7,Road Segment 75
+POI_0296,Pizza Hut,restaurant,12.923314,80.243119,3.0,False,8AM-9PM,OMR (Old Mahabalipuram Road)
+POI_0297,Murugan Idli,restaurant,12.952009,80.229326,4.6,True,8AM-9PM,Rajiv Gandhi Salai (IT Corridor)
+POI_0298,Saravana Bhavan,restaurant,13.069256,80.123243,2.9,True,9AM-8PM,Road Segment 21
+POI_0299,KFC,restaurant,13.035452,80.358245,4.1,True,9AM-8PM,Road Segment 38
+POI_0300,McDonald's,restaurant,13.052211,80.252885,4.8,True,24/7,Anna Salai (Mount Road)
+POI_0301,Subway,restaurant,12.970457,80.193493,4.6,True,6AM-10PM,GST Road
+POI_0302,Murugan Idli,restaurant,12.867227,80.266248,4.6,True,24/7,Road Segment 72
+POI_0303,Anjappar,restaurant,13.054377,80.232787,5.0,True,8AM-9PM,Cathedral Road
+POI_0304,Dominos,restaurant,12.991992,80.233194,4.9,True,6AM-10PM,Road Segment 65
+POI_0305,Murugan Idli,restaurant,13.13335,80.121403,3.0,True,8AM-9PM,Road Segment 64
+POI_0306,McDonald's,restaurant,13.015275,80.211099,3.5,True,8AM-9PM,Inner Ring Road
+POI_0307,Buhari,restaurant,13.016809,80.137453,3.6,False,24/7,Road Segment 41
+POI_0308,McDonald's,restaurant,12.861892,80.158296,3.7,True,24/7,Road Segment 59
+POI_0309,Subway,restaurant,12.932887,80.238898,3.2,True,24/7,OMR (Old Mahabalipuram Road)
+POI_0310,KFC,restaurant,12.961814,80.383584,4.9,False,6AM-10PM,Road Segment 71
+POI_0311,Anjappar,restaurant,12.896262,80.235287,4.3,True,9AM-8PM,Road Segment 46
+POI_0312,Subway,restaurant,13.070491,80.179425,4.9,False,9AM-8PM,Road Segment 77
+POI_0313,Pizza Hut,restaurant,13.02586,80.374472,4.0,True,24/7,Road Segment 38
+POI_0314,Adyar Ananda Bhavan,restaurant,13.09823,80.30772,3.5,True,24/7,Road Segment 33
+POI_0315,Pizza Hut,restaurant,13.003995,80.181296,3.8,False,8AM-9PM,Road Segment 56
+POI_0316,Dominos,restaurant,13.083996,80.115671,4.4,True,9AM-8PM,Road Segment 21
+POI_0317,Subway,restaurant,12.996586,80.281274,4.3,True,6AM-10PM,Road Segment 40
+POI_0318,Saravana Bhavan,restaurant,12.869878,80.162596,3.1,True,8AM-9PM,Road Segment 59
+POI_0319,Pizza Hut,restaurant,13.037881,80.236743,3.1,True,6AM-10PM,Patel Road T Nagar
+POI_0320,Murugan Idli,restaurant,13.149434,80.131748,4.8,False,8AM-9PM,Road Segment 66
+POI_0321,McDonald's,restaurant,13.003491,80.188084,2.9,False,6AM-10PM,Road Segment 26
+POI_0322,Adyar Ananda Bhavan,restaurant,13.134542,80.138858,4.2,True,9AM-8PM,Road Segment 61
+POI_0323,Pizza Hut,restaurant,13.154742,80.378361,3.1,False,9AM-8PM,Road Segment 31
+POI_0324,Subway,restaurant,13.088076,80.219794,4.9,True,9AM-8PM,Road Segment 32
+POI_0325,KFC,restaurant,13.015423,80.195478,3.7,True,8AM-9PM,Inner Ring Road
+POI_0326,Subway,restaurant,13.002783,80.265907,4.3,True,8AM-9PM,Road Segment 43
+POI_0327,Pizza Hut,restaurant,13.092742,80.114945,3.9,False,24/7,Road Segment 58
+POI_0328,Buhari,restaurant,12.988701,80.210125,3.5,True,8AM-9PM,Sardar Patel Road
+POI_0329,Dominos,restaurant,13.0536,80.282342,4.8,False,24/7,Kamarajar Salai Marina
+POI_0330,KFC,restaurant,13.116745,80.243703,2.9,True,9AM-8PM,Road Segment 49
+POI_0331,Murugan Idli,restaurant,13.007844,80.199324,3.4,True,9AM-8PM,Inner Ring Road
+POI_0332,Dominos,restaurant,12.886352,80.227118,4.5,True,9AM-8PM,Road Segment 46
+POI_0333,Pizza Hut,restaurant,13.036498,80.24764,4.1,True,24/7,Patel Road T Nagar
+POI_0334,KFC,restaurant,13.067807,80.316387,3.9,False,6AM-10PM,Road Segment 33
+POI_0335,Murugan Idli,restaurant,13.073874,80.287801,4.7,True,24/7,Kamarajar Salai Marina
+POI_0336,KFC,restaurant,13.004251,80.388173,5.0,False,6AM-10PM,Road Segment 78
+POI_0337,Buhari,restaurant,13.09581,80.307327,3.4,True,9AM-8PM,Road Segment 33
+POI_0338,McDonald's,restaurant,12.999059,80.097544,4.3,True,8AM-9PM,Grand Southern Trunk Road
+POI_0339,Adyar Ananda Bhavan,restaurant,13.016489,80.261151,3.3,True,9AM-8PM,Road Segment 53
+POI_0340,Subway,restaurant,13.129938,80.361463,3.4,True,24/7,Road Segment 31
+POI_0341,Saravana Bhavan,restaurant,12.868313,80.13482,4.7,True,8AM-9PM,Road Segment 23
+POI_0342,Pizza Hut,restaurant,12.936129,80.388582,5.0,True,6AM-10PM,Road Segment 35
+POI_0343,Dominos,restaurant,13.034529,80.361217,3.6,True,6AM-10PM,Road Segment 38
+POI_0344,McDonald's,restaurant,13.027979,80.125323,3.5,True,6AM-10PM,Road Segment 41
+POI_0345,Dominos,restaurant,12.914007,80.233887,2.8,True,24/7,Road Segment 46
+POI_0346,Buhari,restaurant,13.016703,80.276706,4.4,True,9AM-8PM,Road Segment 40
+POI_0347,Subway,restaurant,12.875341,80.114298,3.0,False,24/7,Road Segment 23
+POI_0348,Anjappar,restaurant,13.062667,80.29179,4.9,True,8AM-9PM,Kamarajar Salai Marina
+POI_0349,KFC,restaurant,12.922835,80.225094,3.1,True,6AM-10PM,OMR (Old Mahabalipuram Road)
+POI_0350,Anjappar,restaurant,13.167754,80.36566,4.1,True,8AM-9PM,Road Segment 44
+POI_0351,Anjappar,restaurant,13.042401,80.288817,3.6,True,8AM-9PM,Kamarajar Salai Marina
+POI_0352,KFC,restaurant,13.131639,80.132208,4.8,True,24/7,Road Segment 64
+POI_0353,KFC,restaurant,12.987953,80.191783,4.7,False,6AM-10PM,Road Segment 26
+POI_0354,Buhari,restaurant,13.050817,80.203818,4.6,True,6AM-10PM,100 Feet Road Vadapalani
+POI_0355,Saravana Bhavan,restaurant,13.020045,80.127359,4.6,True,24/7,Road Segment 50
+POI_0356,Saravana Bhavan,restaurant,12.974098,80.246602,4.3,True,9AM-8PM,Rajiv Gandhi Salai (IT Corridor)
+POI_0357,Subway,restaurant,13.016199,80.168893,4.4,True,8AM-9PM,Road Segment 56
+POI_0358,Burger King,restaurant,12.855352,80.112331,3.1,True,24/7,Road Segment 23
+POI_0359,Buhari,restaurant,13.00124,80.152214,3.9,True,24/7,Road Segment 54
+POI_0360,Subway,restaurant,12.856072,80.24308,4.0,True,6AM-10PM,ECR (East Coast Road)
+POI_0361,Adyar Ananda Bhavan,restaurant,12.985441,80.240043,2.8,True,6AM-10PM,Road Segment 68
+POI_0362,KFC,restaurant,12.953037,80.236599,4.3,True,9AM-8PM,Rajiv Gandhi Salai (IT Corridor)
+POI_0363,Pizza Hut,restaurant,13.124688,80.253968,3.2,True,8AM-9PM,Road Segment 49
+POI_0364,Buhari,restaurant,13.153979,80.153825,5.0,False,9AM-8PM,Road Segment 61
+POI_0365,Buhari,restaurant,12.989871,80.174296,4.0,True,8AM-9PM,Road Segment 26
+POI_0366,Adyar Ananda Bhavan,restaurant,13.073831,80.206994,4.1,False,24/7,Road Segment 32
+POI_0367,Anjappar,restaurant,12.855646,80.150647,4.1,True,24/7,Road Segment 23
+POI_0368,Pizza Hut,restaurant,13.116614,80.332814,5.0,True,24/7,Road Segment 28
+POI_0369,Saravana Bhavan,restaurant,12.885848,80.158723,4.3,False,6AM-10PM,Road Segment 73
+POI_0370,KFC,restaurant,12.950607,80.383017,4.4,True,9AM-8PM,Road Segment 35
+POI_0371,Murugan Idli,restaurant,12.904707,80.124037,3.1,True,6AM-10PM,Road Segment 22
+POI_0372,Saravana Bhavan,restaurant,13.05295,80.241657,3.7,True,6AM-10PM,Usman Road T Nagar
+POI_0373,Buhari,restaurant,13.157489,80.186975,4.3,True,9AM-8PM,Road Segment 47
+POI_0374,Burger King,restaurant,13.184575,80.358697,4.5,False,6AM-10PM,Road Segment 67
+POI_0375,Buhari,restaurant,12.879118,80.139038,4.7,True,8AM-9PM,Road Segment 75
+POI_0376,KFC,restaurant,13.053666,80.251427,4.0,False,24/7,Nungambakkam High Road
+POI_0377,Anjappar,restaurant,12.859002,80.383322,4.0,True,6AM-10PM,Road Segment 51
+POI_0378,Pizza Hut,restaurant,13.168497,80.12424,4.6,True,6AM-10PM,Road Segment 66
+POI_0379,Saravana Bhavan,restaurant,13.067349,80.13223,4.5,True,8AM-9PM,Poonamallee High Road
+POI_0380,Saravana Bhavan,restaurant,13.101275,80.195389,3.2,False,8AM-9PM,Road Segment 77
+POI_0381,Buhari,restaurant,13.013815,80.361666,3.2,False,9AM-8PM,Road Segment 38
+POI_0382,Murugan Idli,restaurant,12.899827,80.334607,3.2,True,8AM-9PM,Road Segment 39
+POI_0383,Burger King,restaurant,12.996096,80.097572,4.9,True,24/7,Road Segment 37
+POI_0384,Murugan Idli,restaurant,13.10691,80.119947,3.5,False,6AM-10PM,Road Segment 58
+POI_0385,Saravana Bhavan,restaurant,13.085057,80.254932,3.6,True,24/7,Anna Salai (Mount Road)
+POI_0386,Buhari,restaurant,13.080706,80.201663,4.6,True,8AM-9PM,Road Segment 77
+POI_0387,Adyar Ananda Bhavan,restaurant,12.931934,80.225876,3.1,False,9AM-8PM,OMR (Old Mahabalipuram Road)
+POI_0388,Saravana Bhavan,restaurant,12.912967,80.304734,4.8,True,6AM-10PM,Road Segment 34
+POI_0389,Murugan Idli,restaurant,13.15329,80.290862,4.4,True,8AM-9PM,NH-16 (Chennai-Kolkata Highway)
+POI_0390,PNB ATM,atm,12.867766,80.280201,3.3,False,6AM-10PM,Road Segment 72
+POI_0391,Axis ATM,atm,12.991037,80.278568,4.6,True,24/7,Road Segment 43
+POI_0392,Axis ATM,atm,13.008842,80.269096,3.9,True,24/7,Road Segment 40
+POI_0393,Axis ATM,atm,13.116908,80.248928,4.5,True,8AM-9PM,Road Segment 49
+POI_0394,Canara ATM,atm,13.098686,80.299075,3.2,False,24/7,Road Segment 33
+POI_0395,SBI ATM,atm,12.988058,80.098736,4.7,True,8AM-9PM,Grand Southern Trunk Road
+POI_0396,Canara ATM,atm,12.911299,80.319441,3.6,False,9AM-8PM,Road Segment 39
+POI_0397,HDFC ATM,atm,13.043486,80.225496,3.1,False,8AM-9PM,Patel Road T Nagar
+POI_0398,Canara ATM,atm,13.026354,80.115076,3.2,True,6AM-10PM,Road Segment 50
+POI_0399,HDFC ATM,atm,12.972678,80.112903,3.2,False,6AM-10PM,Grand Southern Trunk Road
+POI_0400,Canara ATM,atm,13.161928,80.130605,4.4,False,9AM-8PM,Road Segment 66
+POI_0401,PNB ATM,atm,13.069902,80.199237,3.8,True,8AM-9PM,Road Segment 32
+POI_0402,HDFC ATM,atm,13.160713,80.100161,4.2,True,24/7,Road Segment 66
+POI_0403,ICICI ATM,atm,13.137909,80.158339,4.6,True,24/7,Road Segment 61
+POI_0404,Canara ATM,atm,13.038816,80.350396,3.2,True,9AM-8PM,Road Segment 29
+POI_0405,HDFC ATM,atm,13.027475,80.200804,4.7,True,24/7,Inner Ring Road
+POI_0406,Canara ATM,atm,12.940576,80.383231,4.1,True,24/7,Road Segment 35
+POI_0407,SBI ATM,atm,12.853673,80.171047,3.8,True,8AM-9PM,Road Segment 24
+POI_0408,ICICI ATM,atm,13.122681,80.125008,4.1,True,6AM-10PM,Road Segment 30
+POI_0409,PNB ATM,atm,12.886939,80.122806,3.8,True,24/7,Road Segment 22
+POI_0410,ICICI ATM,atm,12.977277,80.140393,5.0,True,24/7,Road Segment 80
+POI_0411,Canara ATM,atm,13.210637,80.121764,5.0,True,6AM-10PM,Road Segment 63
+POI_0412,Axis ATM,atm,12.96867,80.193257,3.1,True,9AM-8PM,GST Road
+POI_0413,PNB ATM,atm,13.14275,80.163609,3.1,True,8AM-9PM,Road Segment 61
+POI_0414,PNB ATM,atm,12.912684,80.220634,3.9,False,6AM-10PM,OMR (Old Mahabalipuram Road)
+POI_0415,SBI ATM,atm,13.008309,80.233923,4.4,False,6AM-10PM,Sardar Patel Road
+POI_0416,HDFC ATM,atm,12.980045,80.134407,4.9,True,24/7,Grand Southern Trunk Road
+POI_0417,HDFC ATM,atm,12.977506,80.213449,4.6,False,24/7,Road Segment 62
+POI_0418,HDFC ATM,atm,12.87291,80.104265,3.3,True,8AM-9PM,Road Segment 75
+POI_0419,Axis ATM,atm,13.024675,80.268188,4.6,True,9AM-8PM,Road Segment 53
+POI_0420,Canara ATM,atm,12.851895,80.255102,3.2,True,8AM-9PM,ECR (East Coast Road)
+POI_0421,ICICI ATM,atm,13.133834,80.142053,3.2,True,6AM-10PM,Road Segment 64
+POI_0422,SBI ATM,atm,13.127453,80.125382,4.2,True,24/7,Road Segment 64
+POI_0423,HDFC ATM,atm,13.010156,80.273775,4.5,True,9AM-8PM,Road Segment 53
+POI_0424,Canara ATM,atm,12.999465,80.148936,4.3,True,6AM-10PM,Road Segment 54
+POI_0425,ICICI ATM,atm,12.9833,80.39404,4.3,True,6AM-10PM,Road Segment 69
+POI_0426,HDFC ATM,atm,13.15618,80.185408,3.7,True,9AM-8PM,Road Segment 47
+POI_0427,Axis ATM,atm,12.921858,80.244184,3.7,True,8AM-9PM,OMR (Old Mahabalipuram Road)
+POI_0428,HDFC ATM,atm,12.994512,80.170549,3.2,True,6AM-10PM,Road Segment 54
+POI_0429,Axis ATM,atm,12.866504,80.178654,4.4,True,24/7,Road Segment 73
+POI_0430,PNB ATM,atm,13.019253,80.259452,3.6,True,24/7,Road Segment 53
+POI_0431,SBI ATM,atm,13.006103,80.242191,4.7,True,6AM-10PM,Road Segment 68
+POI_0432,ICICI ATM,atm,12.99184,80.234815,4.6,False,8AM-9PM,Sardar Patel Road
+POI_0433,PNB ATM,atm,13.138276,80.130197,2.8,False,8AM-9PM,Road Segment 64
+POI_0434,ICICI ATM,atm,13.053976,80.194973,2.9,False,8AM-9PM,100 Feet Road Vadapalani
+POI_0435,Canara ATM,atm,13.05181,80.243461,3.4,True,24/7,Usman Road T Nagar
+POI_0436,SBI ATM,atm,13.002294,80.229602,3.4,True,6AM-10PM,Sardar Patel Road
+POI_0437,HDFC ATM,atm,13.187581,80.366097,3.1,True,9AM-8PM,Road Segment 44
+POI_0438,Axis ATM,atm,12.898696,80.330633,3.8,True,9AM-8PM,Road Segment 39
+POI_0439,ICICI ATM,atm,12.878871,80.238175,3.5,False,24/7,Road Segment 46
+POI_0440,Canara ATM,atm,13.141335,80.325966,3.0,True,8AM-9PM,Road Segment 36
+POI_0441,ICICI ATM,atm,13.004111,80.413089,4.1,True,8AM-9PM,Road Segment 78
+POI_0442,PNB ATM,atm,12.902861,80.245605,3.3,True,8AM-9PM,Road Segment 46
+POI_0443,HDFC ATM,atm,12.985168,80.101102,3.0,False,6AM-10PM,Road Segment 37
+POI_0444,Canara ATM,atm,12.867248,80.286026,4.4,True,24/7,Road Segment 72
+POI_0445,ICICI ATM,atm,13.063075,80.333397,3.5,True,8AM-9PM,Road Segment 42
+POI_0446,HDFC ATM,atm,12.958748,80.396549,4.4,True,24/7,Road Segment 71
+POI_0447,PNB ATM,atm,12.910281,80.188318,4.9,True,8AM-9PM,Road Segment 79
+POI_0448,HDFC ATM,atm,13.026888,80.173001,3.8,True,9AM-8PM,Road Segment 56
+POI_0449,SBI ATM,atm,12.921568,80.13623,3.1,True,9AM-8PM,Road Segment 22
+POI_0450,HDFC ATM,atm,12.850264,80.268798,4.8,True,9AM-8PM,ECR (East Coast Road)
+POI_0451,ICICI ATM,atm,13.13229,80.267159,4.6,False,6AM-10PM,Road Segment 49
+POI_0452,ICICI ATM,atm,13.040446,80.230797,4.4,False,24/7,Usman Road T Nagar
+POI_0453,HDFC ATM,atm,12.989046,80.10451,4.7,True,6AM-10PM,Road Segment 37
+POI_0454,HDFC ATM,atm,13.073162,80.202614,3.4,True,9AM-8PM,Road Segment 32
+POI_0455,PNB ATM,atm,13.033574,80.365747,3.0,True,8AM-9PM,Road Segment 38
+POI_0456,Canara ATM,atm,13.171153,80.181215,2.8,False,8AM-9PM,Road Segment 48
+POI_0457,Axis ATM,atm,12.906155,80.359837,3.3,False,9AM-8PM,Road Segment 45
+POI_0458,PNB ATM,atm,13.005331,80.382157,4.3,True,6AM-10PM,Road Segment 78
+POI_0459,ICICI ATM,atm,13.075576,80.30739,3.2,True,24/7,Road Segment 33
+POI_0460,Axis ATM,atm,12.926876,80.318522,3.3,True,6AM-10PM,Road Segment 34
+POI_0461,ICICI ATM,atm,13.049088,80.244435,3.0,True,8AM-9PM,Usman Road T Nagar
+POI_0462,SBI ATM,atm,13.026509,80.273348,3.2,True,9AM-8PM,Road Segment 53
+POI_0463,HDFC ATM,atm,13.041957,80.245433,2.9,True,6AM-10PM,Usman Road T Nagar
+POI_0464,ICICI ATM,atm,13.128313,80.330541,3.6,True,8AM-9PM,Road Segment 36
+POI_0465,PNB ATM,atm,13.077545,80.202534,3.4,True,8AM-9PM,Road Segment 32
+POI_0466,SBI ATM,atm,13.009976,80.130109,3.0,True,9AM-8PM,Road Segment 52
+POI_0467,Axis ATM,atm,13.070519,80.1783,4.7,True,24/7,Road Segment 57
+POI_0468,Axis ATM,atm,12.880202,80.162148,4.9,True,8AM-9PM,Road Segment 59
+POI_0469,PNB ATM,atm,12.883961,80.326434,3.5,True,9AM-8PM,Road Segment 39
+POI_0470,Netmeds,pharmacy,13.0346,80.289638,4.5,True,9AM-8PM,Kamarajar Salai Marina
+POI_0471,Netmeds,pharmacy,12.915417,80.19916,3.5,True,6AM-10PM,Road Segment 79
+POI_0472,Frank Ross,pharmacy,12.883612,80.372099,3.1,False,6AM-10PM,Road Segment 45
+POI_0473,Netmeds,pharmacy,12.871179,80.268205,3.2,True,9AM-8PM,Road Segment 72
+POI_0474,Guardian,pharmacy,12.988753,80.236515,4.1,False,9AM-8PM,Velachery Main Road
+POI_0475,Frank Ross,pharmacy,13.068623,80.338642,3.1,False,6AM-10PM,Road Segment 42
+POI_0476,Frank Ross,pharmacy,13.003676,80.1406,3.4,False,8AM-9PM,Outer Ring Road
+POI_0477,Frank Ross,pharmacy,12.906422,80.310609,3.4,False,9AM-8PM,Road Segment 34
+POI_0478,Netmeds,pharmacy,12.844903,80.25222,4.3,True,8AM-9PM,ECR (East Coast Road)
+POI_0479,Frank Ross,pharmacy,13.144875,80.354361,3.8,True,9AM-8PM,Road Segment 31
+POI_0480,Frank Ross,pharmacy,13.066609,80.251992,4.9,False,9AM-8PM,Anna Salai (Mount Road)
+POI_0481,Apollo Pharmacy,pharmacy,13.053805,80.288259,4.3,False,8AM-9PM,Kamarajar Salai Marina
+POI_0482,Netmeds,pharmacy,13.04486,80.162821,4.0,False,6AM-10PM,Road Segment 57
+POI_0483,Frank Ross,pharmacy,12.990164,80.390953,3.9,True,9AM-8PM,Road Segment 70
+POI_0484,Guardian,pharmacy,12.858675,80.126808,3.4,False,8AM-9PM,Road Segment 75
+POI_0485,MedPlus,pharmacy,12.916861,80.237055,3.5,True,8AM-9PM,OMR (Old Mahabalipuram Road)
+POI_0486,Netmeds,pharmacy,12.880496,80.364131,3.5,True,24/7,Road Segment 45
+POI_0487,Netmeds,pharmacy,12.996339,80.373981,3.6,True,9AM-8PM,Road Segment 74
+POI_0488,Guardian,pharmacy,12.990745,80.244026,4.6,True,6AM-10PM,LB Road Adyar
+POI_0489,MedPlus,pharmacy,13.190279,80.339631,4.3,True,9AM-8PM,Road Segment 44
+POI_0490,Apollo Pharmacy,pharmacy,13.125258,80.252787,2.8,True,24/7,Road Segment 49
+POI_0491,Frank Ross,pharmacy,13.052287,80.194516,3.4,True,9AM-8PM,100 Feet Road Vadapalani
+POI_0492,Frank Ross,pharmacy,12.859865,80.130873,3.5,False,24/7,Road Segment 23
+POI_0493,Apollo Pharmacy,pharmacy,13.002052,80.283458,3.8,True,8AM-9PM,Road Segment 43
+POI_0494,MedPlus,pharmacy,13.068758,80.179647,4.8,False,6AM-10PM,Road Segment 57
+POI_0495,Netmeds,pharmacy,13.004259,80.187685,3.2,True,6AM-10PM,Road Segment 26
+POI_0496,Frank Ross,pharmacy,13.199026,80.34386,4.9,True,24/7,Road Segment 67
+POI_0497,Netmeds,pharmacy,13.084909,80.105659,4.0,True,24/7,Road Segment 21
+POI_0498,Guardian,pharmacy,13.004065,80.283599,4.3,True,6AM-10PM,Road Segment 40
+POI_0499,Netmeds,pharmacy,13.102367,80.251122,4.7,True,24/7,Road Segment 49
+POI_0500,Apollo Pharmacy,pharmacy,12.944853,80.26242,4.2,True,9AM-8PM,Rajiv Gandhi Salai (IT Corridor)
+POI_0501,Netmeds,pharmacy,13.040936,80.233062,4.5,True,8AM-9PM,Nungambakkam High Road
+POI_0502,Frank Ross,pharmacy,12.978488,80.245495,4.6,False,24/7,Road Segment 68
+POI_0503,Netmeds,pharmacy,13.15232,80.136007,4.2,True,24/7,Road Segment 66
+POI_0504,Guardian,pharmacy,12.841512,80.262361,4.1,False,24/7,ECR (East Coast Road)
+POI_0505,Netmeds,pharmacy,13.092803,80.128411,4.5,False,9AM-8PM,Road Segment 30
+POI_0506,Guardian,pharmacy,12.984338,80.387843,3.3,True,8AM-9PM,Road Segment 69
+POI_0507,Frank Ross,pharmacy,12.91088,80.244676,4.3,True,9AM-8PM,OMR (Old Mahabalipuram Road)
+POI_0508,Apollo Pharmacy,pharmacy,12.867245,80.130015,3.0,False,8AM-9PM,Road Segment 75
+POI_0509,MedPlus,pharmacy,13.012199,80.382132,3.7,True,6AM-10PM,Road Segment 38
+POI_0510,Apollo Pharmacy,pharmacy,12.957219,80.238065,3.9,True,8AM-9PM,Rajiv Gandhi Salai (IT Corridor)
+POI_0511,MedPlus,pharmacy,13.086735,80.1904,5.0,True,6AM-10PM,Road Segment 77
+POI_0512,Netmeds,pharmacy,13.003074,80.115128,3.8,True,8AM-9PM,Road Segment 41
+POI_0513,MedPlus,pharmacy,13.170176,80.370108,3.9,True,8AM-9PM,Road Segment 44
+POI_0514,MedPlus,pharmacy,12.962392,80.231155,4.0,True,24/7,Rajiv Gandhi Salai (IT Corridor)
+POI_0515,Frank Ross,pharmacy,13.065049,80.193694,4.0,True,9AM-8PM,100 Feet Road Vadapalani
+POI_0516,Netmeds,pharmacy,13.035104,80.15367,3.9,True,9AM-8PM,Road Segment 57
+POI_0517,Apollo Pharmacy,pharmacy,13.00485,80.384549,3.2,True,8AM-9PM,Road Segment 78
+POI_0518,Frank Ross,pharmacy,12.915387,80.213834,3.5,True,6AM-10PM,OMR (Old Mahabalipuram Road)
+POI_0519,Frank Ross,pharmacy,13.16388,80.189412,3.5,True,24/7,Road Segment 48
+POI_0520,Frank Ross,pharmacy,12.993332,80.1809,3.7,True,8AM-9PM,Road Segment 26
+POI_0521,Netmeds,pharmacy,13.124915,80.341658,4.5,True,24/7,Road Segment 36
+POI_0522,MedPlus,pharmacy,12.905303,80.327753,4.8,True,9AM-8PM,Road Segment 34
+POI_0523,MedPlus,pharmacy,12.988927,80.263335,3.2,False,9AM-8PM,Road Segment 43
+POI_0524,Netmeds,pharmacy,13.078961,80.314014,3.2,True,9AM-8PM,Road Segment 33
+POI_0525,MedPlus,pharmacy,12.851698,80.34825,3.8,True,8AM-9PM,Road Segment 51
+POI_0526,Guardian,pharmacy,12.870325,80.274021,2.8,True,24/7,Road Segment 72
+POI_0527,Netmeds,pharmacy,12.999263,80.110023,5.0,True,24/7,Road Segment 50
+POI_0528,Frank Ross,pharmacy,13.11502,80.265807,4.9,False,8AM-9PM,Road Segment 49
+POI_0529,Frank Ross,pharmacy,12.98336,80.223932,3.9,True,8AM-9PM,Velachery Main Road
+POI_0530,Guardian,pharmacy,13.051084,80.354403,4.8,True,9AM-8PM,Road Segment 29
+POI_0531,Netmeds,pharmacy,13.006171,80.142401,2.9,True,9AM-8PM,Road Segment 56
+POI_0532,Netmeds,pharmacy,12.974949,80.214197,3.8,True,8AM-9PM,Velachery Main Road
+POI_0533,Netmeds,pharmacy,13.022766,80.271975,3.9,False,9AM-8PM,LB Road Adyar
+POI_0534,Apollo Pharmacy,pharmacy,13.107143,80.113452,4.3,True,8AM-9PM,Road Segment 58
+POI_0535,Guardian,pharmacy,13.085152,80.243913,3.2,False,6AM-10PM,Cathedral Road
+POI_0536,MedPlus,pharmacy,13.10536,80.279933,4.6,True,8AM-9PM,Road Segment 49
+POI_0537,Netmeds,pharmacy,13.016781,80.117159,3.0,True,8AM-9PM,Road Segment 50
+POI_0538,Netmeds,pharmacy,13.015224,80.398833,3.1,True,8AM-9PM,Road Segment 78
+POI_0539,MedPlus,pharmacy,13.021079,80.112723,4.0,False,24/7,Road Segment 41
+POI_0540,Don Bosco,school,13.00001,80.25946,4.4,True,9AM-8PM,LB Road Adyar
+POI_0541,Santhome,school,13.049477,80.195478,3.5,False,24/7,100 Feet Road Vadapalani
+POI_0542,Vidya Mandir,school,12.997581,80.230963,4.8,True,24/7,Road Segment 65
+POI_0543,Santhome,school,13.067852,80.241141,4.2,True,24/7,Nungambakkam High Road
+POI_0544,KV School,school,13.068163,80.106452,3.9,False,8AM-9PM,Road Segment 21
+POI_0545,Vidya Mandir,school,12.998702,80.21352,2.9,True,6AM-10PM,Road Segment 65
+POI_0546,Don Bosco,school,12.899586,80.249759,3.4,False,9AM-8PM,Road Segment 46
+POI_0547,KV School,school,13.070057,80.338172,3.4,True,6AM-10PM,Road Segment 42
+POI_0548,KV School,school,13.044942,80.220813,3.3,True,9AM-8PM,Patel Road T Nagar
+POI_0549,Santhome,school,13.061914,80.358185,3.2,True,6AM-10PM,Road Segment 25
+POI_0550,Vidya Mandir,school,13.123582,80.124675,4.6,False,8AM-9PM,Road Segment 64
+POI_0551,Don Bosco,school,12.878253,80.224337,3.0,True,8AM-9PM,Road Segment 46
+POI_0552,Vidya Mandir,school,12.8736,80.158396,4.1,True,8AM-9PM,Road Segment 59
+POI_0553,Vidya Mandir,school,13.127476,80.153083,4.3,True,24/7,Road Segment 61
+POI_0554,KV School,school,13.07402,80.344054,3.4,True,8AM-9PM,Road Segment 42
+POI_0555,PSBB School,school,12.980248,80.121917,4.0,False,9AM-8PM,Road Segment 37
+POI_0556,DAV School,school,12.873253,80.172785,3.4,True,8AM-9PM,Road Segment 59
+POI_0557,Vidya Mandir,school,12.859691,80.246178,4.9,True,9AM-8PM,ECR (East Coast Road)
+POI_0558,DAV School,school,12.983573,80.290929,4.9,True,8AM-9PM,Road Segment 43
+POI_0559,KV School,school,12.993534,80.141373,4.8,True,6AM-10PM,Road Segment 80
+POI_0560,Santhome,school,13.149719,80.192763,4.3,True,24/7,Road Segment 48
+POI_0561,Don Bosco,school,13.060159,80.23573,3.8,False,6AM-10PM,Patel Road T Nagar
+POI_0562,PSBB School,school,12.864506,80.17048,4.2,True,24/7,Road Segment 24
+POI_0563,Vidya Mandir,school,12.995835,80.097454,3.0,True,24/7,Grand Southern Trunk Road
+POI_0564,Don Bosco,school,12.890264,80.122463,4.0,True,6AM-10PM,Road Segment 22
+POI_0565,Vidya Mandir,school,13.15774,80.16295,3.3,True,6AM-10PM,Road Segment 48
+POI_0566,KV School,school,12.910268,80.161157,3.8,True,24/7,Road Segment 79
+POI_0567,Vidya Mandir,school,13.061927,80.351491,4.9,True,8AM-9PM,Road Segment 42
+POI_0568,KV School,school,13.078445,80.104594,4.0,True,8AM-9PM,Road Segment 21
+POI_0569,Santhome,school,13.207091,80.354955,4.3,True,8AM-9PM,Road Segment 44
+POI_0570,DAV School,school,12.880469,80.154643,4.0,True,6AM-10PM,Road Segment 73
+POI_0571,PSBB School,school,13.002021,80.167829,4.3,True,9AM-8PM,Road Segment 56
+POI_0572,Don Bosco,school,12.976746,80.139125,4.0,True,24/7,Road Segment 80
+POI_0573,Vidya Mandir,school,13.042874,80.24624,4.9,False,24/7,Nungambakkam High Road
+POI_0574,Don Bosco,school,12.996168,80.144025,3.0,True,6AM-10PM,Outer Ring Road
+POI_0575,Vidya Mandir,school,13.032524,80.139214,3.7,True,6AM-10PM,Road Segment 50
+POI_0576,Don Bosco,school,13.092285,80.30986,4.3,True,24/7,Road Segment 33
+POI_0577,Santhome,school,12.884214,80.373569,4.2,False,24/7,Road Segment 60
+POI_0578,Don Bosco,school,12.873983,80.260236,3.7,True,24/7,Road Segment 72
+POI_0579,Don Bosco,school,12.993956,80.385603,4.1,False,6AM-10PM,Road Segment 74
+POI_0580,KV School,school,13.130818,80.309966,3.7,True,6AM-10PM,Road Segment 28
+POI_0581,PSBB School,school,12.900668,80.392306,3.7,True,6AM-10PM,Road Segment 60
+POI_0582,DAV School,school,13.064763,80.343723,4.0,True,9AM-8PM,Road Segment 25
+POI_0583,Vidya Mandir,school,12.856202,80.173381,4.8,False,6AM-10PM,Road Segment 24
+POI_0584,Don Bosco,school,13.009091,80.266615,3.4,False,9AM-8PM,Road Segment 53
+POI_0585,DAV School,school,12.996852,80.37367,4.3,True,9AM-8PM,Road Segment 70
+POI_0586,Vidya Mandir,school,13.027424,80.108038,3.7,True,8AM-9PM,Road Segment 52
+POI_0587,Santhome,school,13.149859,80.330744,3.1,True,6AM-10PM,Road Segment 36
+POI_0588,DAV School,school,13.015789,80.13092,3.9,True,24/7,Road Segment 50
+POI_0589,Santhome,school,13.08834,80.199869,4.0,True,9AM-8PM,Road Segment 76
+POI_0590,City Parking Zone,parking,13.015731,80.35537,4.0,True,24/7,Road Segment 38
+POI_0591,Multi-level Parking,parking,12.965944,80.208648,4.5,False,9AM-8PM,Velachery Main Road
+POI_0592,Mall Parking,parking,13.04027,80.235563,4.8,True,6AM-10PM,Usman Road T Nagar
+POI_0593,Mall Parking,parking,12.944269,80.379724,2.9,True,6AM-10PM,Road Segment 71
+POI_0594,Multi-level Parking,parking,12.975659,80.103604,4.2,True,9AM-8PM,Grand Southern Trunk Road
+POI_0595,Mall Parking,parking,12.966975,80.147203,4.5,False,24/7,Road Segment 80
+POI_0596,City Parking Zone,parking,13.163715,80.117807,3.1,True,9AM-8PM,Road Segment 66
+POI_0597,Mall Parking,parking,12.874358,80.142499,3.7,True,8AM-9PM,Road Segment 75
+POI_0598,Multi-level Parking,parking,13.089866,80.323243,3.9,False,24/7,Road Segment 33
+POI_0599,Mall Parking,parking,12.974448,80.397456,4.8,True,8AM-9PM,Road Segment 69
+POI_0600,Mall Parking,parking,13.150862,80.11425,5.0,True,24/7,Road Segment 66
+POI_0601,Mall Parking,parking,13.056124,80.263143,3.6,True,8AM-9PM,Cathedral Road
+POI_0602,Mall Parking,parking,12.991189,80.118581,4.9,False,9AM-8PM,Road Segment 37
+POI_0603,City Parking Zone,parking,12.956411,80.247282,4.7,True,9AM-8PM,Rajiv Gandhi Salai (IT Corridor)
+POI_0604,Multi-level Parking,parking,12.977879,80.21917,4.4,False,24/7,Velachery Main Road
+POI_0605,Multi-level Parking,parking,13.068753,80.24065,3.4,False,9AM-8PM,Anna Salai (Mount Road)
+POI_0606,Multi-level Parking,parking,12.98489,80.284407,4.0,True,24/7,Road Segment 40
+POI_0607,Metro Parking,parking,13.005808,80.112514,3.3,True,9AM-8PM,Road Segment 52
+POI_0608,Mall Parking,parking,12.99602,80.1693,3.9,True,8AM-9PM,Road Segment 56
+POI_0609,Multi-level Parking,parking,13.094519,80.115358,3.7,True,6AM-10PM,Road Segment 58
+POI_0610,Mall Parking,parking,13.119203,80.122203,4.1,True,8AM-9PM,Road Segment 58
+POI_0611,City Parking Zone,parking,13.055248,80.252665,4.0,False,24/7,Usman Road T Nagar
+POI_0612,City Parking Zone,parking,13.054754,80.239392,4.5,True,8AM-9PM,Nungambakkam High Road
+POI_0613,Mall Parking,parking,13.026525,80.199667,4.9,True,6AM-10PM,Inner Ring Road
+POI_0614,Metro Parking,parking,12.987533,80.247304,4.1,True,8AM-9PM,LB Road Adyar
+POI_0615,Metro Parking,parking,12.995009,80.396325,4.8,False,9AM-8PM,Road Segment 78
+POI_0616,Mall Parking,parking,13.148652,80.191362,3.9,True,6AM-10PM,Road Segment 48
+POI_0617,Metro Parking,parking,12.998729,80.164783,3.9,True,6AM-10PM,Road Segment 80
+POI_0618,Metro Parking,parking,13.178399,80.130079,3.5,True,24/7,Road Segment 63
+POI_0619,City Parking Zone,parking,13.025427,80.19657,3.6,False,9AM-8PM,Inner Ring Road
+POI_0620,Metro Parking,parking,12.995136,80.187412,4.4,True,6AM-10PM,Road Segment 26
+POI_0621,City Parking Zone,parking,12.94207,80.381132,4.8,True,8AM-9PM,Road Segment 35
+POI_0622,Multi-level Parking,parking,12.975236,80.163357,4.7,False,9AM-8PM,Road Segment 80
+POI_0623,Multi-level Parking,parking,13.155897,80.180612,3.0,False,9AM-8PM,Road Segment 47
+POI_0624,Multi-level Parking,parking,13.016231,80.256583,4.8,False,8AM-9PM,Road Segment 53
+POI_0625,Multi-level Parking,parking,13.051099,80.230845,3.8,True,6AM-10PM,Usman Road T Nagar
+POI_0626,Mall Parking,parking,13.032564,80.359768,4.9,True,8AM-9PM,Road Segment 38
+POI_0627,Mall Parking,parking,13.134185,80.348477,4.9,False,9AM-8PM,Road Segment 36
+POI_0628,Metro Parking,parking,12.993476,80.171785,3.5,True,6AM-10PM,Road Segment 26
+POI_0629,Mall Parking,parking,13.136607,80.122314,3.3,True,6AM-10PM,Road Segment 64
+POI_0630,City Parking Zone,parking,13.007587,80.122329,3.9,False,9AM-8PM,Road Segment 52
+POI_0631,Multi-level Parking,parking,12.957832,80.385388,4.2,False,8AM-9PM,Road Segment 74
+POI_0632,City Parking Zone,parking,12.887956,80.365774,4.3,True,9AM-8PM,Road Segment 45
+POI_0633,City Parking Zone,parking,12.902586,80.334733,3.5,True,6AM-10PM,Road Segment 34
+POI_0634,City Parking Zone,parking,13.052167,80.34069,3.1,True,24/7,Road Segment 25
+POI_0635,City Parking Zone,parking,13.07726,80.343505,3.4,True,24/7,Road Segment 42
+POI_0636,Multi-level Parking,parking,12.977955,80.114274,4.6,True,24/7,Road Segment 37
+POI_0637,Metro Parking,parking,12.879778,80.368581,2.8,True,6AM-10PM,Road Segment 45
+POI_0638,Metro Parking,parking,13.139554,80.161157,4.3,True,8AM-9PM,Road Segment 61
+POI_0639,Metro Parking,parking,13.052528,80.349871,4.2,True,9AM-8PM,Road Segment 29
+POI_0640,ICICI Branch,bank,13.019181,80.331698,3.1,True,8AM-9PM,Road Segment 29
+POI_0641,Axis Bank,bank,12.86222,80.26839,4.7,False,6AM-10PM,ECR (East Coast Road)
+POI_0642,Canara Bank,bank,13.062686,80.359269,5.0,True,24/7,Road Segment 25
+POI_0643,Axis Bank,bank,13.023493,80.375528,4.9,True,8AM-9PM,Road Segment 38
+POI_0644,Indian Bank,bank,12.863116,80.137338,4.7,True,9AM-8PM,Road Segment 75
+POI_0645,Indian Bank,bank,13.050831,80.211324,4.1,True,6AM-10PM,100 Feet Road Vadapalani
+POI_0646,HDFC Branch,bank,13.014283,80.187606,4.0,True,8AM-9PM,Road Segment 56
+POI_0647,HDFC Branch,bank,13.02948,80.129119,3.5,False,6AM-10PM,Road Segment 50
+POI_0648,ICICI Branch,bank,12.905964,80.32105,4.9,True,9AM-8PM,Road Segment 34
+POI_0649,Indian Bank,bank,12.882179,80.37284,4.4,True,6AM-10PM,Road Segment 45
+POI_0650,SBI Branch,bank,13.197536,80.345325,4.3,True,9AM-8PM,Road Segment 67
+POI_0651,Indian Bank,bank,13.00136,80.14918,3.8,True,9AM-8PM,Outer Ring Road
+POI_0652,Indian Bank,bank,13.184647,80.347124,4.7,False,6AM-10PM,Road Segment 44
+POI_0653,Indian Bank,bank,12.975591,80.162197,3.7,True,24/7,Road Segment 80
+POI_0654,Indian Bank,bank,12.989825,80.267362,4.4,True,24/7,Road Segment 43
+POI_0655,SBI Branch,bank,12.994232,80.146647,3.8,False,9AM-8PM,Outer Ring Road
+POI_0656,Indian Bank,bank,12.854961,80.158048,3.9,True,9AM-8PM,Road Segment 24
+POI_0657,Indian Bank,bank,13.117288,80.138647,3.0,False,8AM-9PM,Road Segment 64
+POI_0658,SBI Branch,bank,12.969554,80.193705,4.5,False,6AM-10PM,Road Segment 62
+POI_0659,HDFC Branch,bank,12.877902,80.125173,3.6,False,9AM-8PM,Road Segment 27
+POI_0660,Canara Bank,bank,13.065641,80.165599,4.7,True,8AM-9PM,Road Segment 57
+POI_0661,HDFC Branch,bank,12.8898,80.344907,4.6,True,24/7,Road Segment 39
+POI_0662,HDFC Branch,bank,12.993631,80.306,4.9,True,8AM-9PM,Road Segment 55
+POI_0663,Canara Bank,bank,13.175082,80.122887,3.1,True,24/7,Road Segment 66
+POI_0664,ICICI Branch,bank,13.138719,80.360907,4.5,False,9AM-8PM,Road Segment 31
+POI_0665,ICICI Branch,bank,13.038258,80.239332,3.3,False,24/7,Usman Road T Nagar
+POI_0666,HDFC Branch,bank,12.876598,80.141126,3.1,True,24/7,Road Segment 24
+POI_0667,Axis Bank,bank,12.991288,80.265018,4.9,True,8AM-9PM,LB Road Adyar
+POI_0668,HDFC Branch,bank,13.164616,80.342875,3.2,True,9AM-8PM,Road Segment 44
+POI_0669,SBI Branch,bank,12.984067,80.388283,4.4,False,24/7,Road Segment 69
+POI_0670,HDFC Branch,bank,12.873895,80.1519,3.7,True,6AM-10PM,Road Segment 59
+POI_0671,Indian Bank,bank,12.916453,80.176377,4.5,True,24/7,Road Segment 79
+POI_0672,Indian Bank,bank,13.033621,80.250222,4.0,False,6AM-10PM,Patel Road T Nagar
+POI_0673,Indian Bank,bank,13.082081,80.18079,3.0,True,9AM-8PM,Road Segment 77
+POI_0674,ICICI Branch,bank,13.043714,80.241694,4.9,True,8AM-9PM,Usman Road T Nagar
+POI_0675,SBI Branch,bank,12.900675,80.134653,4.2,False,9AM-8PM,Road Segment 22
+POI_0676,SBI Branch,bank,13.066876,80.334255,5.0,True,24/7,Road Segment 25
+POI_0677,Indian Bank,bank,12.979444,80.31511,3.2,False,8AM-9PM,Road Segment 55
+POI_0678,Indian Bank,bank,13.160798,80.19521,3.6,False,9AM-8PM,Road Segment 48
+POI_0679,ICICI Branch,bank,13.05419,80.250467,4.1,True,8AM-9PM,Anna Salai (Mount Road)
+POI_0680,Canara Bank,bank,13.140765,80.124333,3.6,True,6AM-10PM,Road Segment 66
+POI_0681,Indian Bank,bank,13.137994,80.273003,3.8,True,6AM-10PM,NH-16 (Chennai-Kolkata Highway)
+POI_0682,Canara Bank,bank,13.042481,80.240225,3.1,True,24/7,Cathedral Road
+POI_0683,Canara Bank,bank,12.928493,80.339867,4.0,True,24/7,Road Segment 34
+POI_0684,Axis Bank,bank,12.886936,80.125015,3.1,True,6AM-10PM,Road Segment 22
+POI_0685,Indian Bank,bank,13.05823,80.286017,4.1,True,8AM-9PM,Kamarajar Salai Marina
+POI_0686,Canara Bank,bank,13.092158,80.127012,3.5,True,8AM-9PM,Road Segment 30
+POI_0687,Indian Bank,bank,13.022692,80.126729,3.1,True,24/7,Road Segment 41
+POI_0688,Canara Bank,bank,13.049876,80.228825,4.7,False,6AM-10PM,Usman Road T Nagar
+POI_0689,ICICI Branch,bank,13.083135,80.115901,3.3,True,6AM-10PM,Road Segment 30
+POI_0690,Guindy Metro,metro_station,13.065854,80.20918,3.8,True,24/7,100 Feet Road Vadapalani
+POI_0691,Anna Nagar Metro,metro_station,13.066598,80.177414,4.0,True,8AM-9PM,Road Segment 57
+POI_0692,Guindy Metro,metro_station,13.138541,80.1418,2.8,True,6AM-10PM,Road Segment 61
+POI_0693,Anna Nagar Metro,metro_station,13.112472,80.132517,3.8,True,6AM-10PM,Road Segment 64
+POI_0694,Alandur Metro,metro_station,12.882808,80.13296,3.0,False,24/7,Road Segment 27
+POI_0695,Central Metro,metro_station,12.990865,80.260936,4.7,True,24/7,Road Segment 68
+POI_0696,Guindy Metro,metro_station,13.148674,80.122604,3.2,True,6AM-10PM,Road Segment 66
+POI_0697,Guindy Metro,metro_station,13.057074,80.148617,4.7,True,9AM-8PM,Poonamallee High Road
+POI_0698,Alandur Metro,metro_station,13.078092,80.207943,4.7,True,24/7,Road Segment 32
+POI_0699,Alandur Metro,metro_station,12.88911,80.33252,3.1,True,24/7,Road Segment 39
+POI_0700,Anna Nagar Metro,metro_station,13.079687,80.10679,3.2,True,8AM-9PM,Road Segment 58
+POI_0701,Central Metro,metro_station,13.080868,80.194528,3.8,False,24/7,Road Segment 77
+POI_0702,Alandur Metro,metro_station,12.943389,80.3804,4.2,True,8AM-9PM,Road Segment 35
+POI_0703,Airport Metro,metro_station,12.866719,80.266892,4.4,True,6AM-10PM,Road Segment 72
+POI_0704,Alandur Metro,metro_station,12.870863,80.15965,3.1,False,8AM-9PM,Road Segment 24
+POI_0705,Alandur Metro,metro_station,12.86744,80.275196,4.6,True,6AM-10PM,Road Segment 72
+POI_0706,Guindy Metro,metro_station,12.859199,80.143964,4.8,False,8AM-9PM,Road Segment 75
+POI_0707,Koyambedu Metro,metro_station,13.078186,80.107764,3.2,True,24/7,Road Segment 21
+POI_0708,Egmore Metro,metro_station,12.970226,80.181981,3.2,True,8AM-9PM,GST Road
+POI_0709,Koyambedu Metro,metro_station,13.139,80.33229,3.0,True,8AM-9PM,Road Segment 36
+POI_0710,Guindy Metro,metro_station,12.995634,80.243523,3.1,True,6AM-10PM,Road Segment 68
+POI_0711,Anna Nagar Metro,metro_station,12.863038,80.124745,3.8,True,6AM-10PM,Road Segment 23
+POI_0712,Anna Nagar Metro,metro_station,12.962198,80.190011,3.8,False,8AM-9PM,GST Road
+POI_0713,Airport Metro,metro_station,12.998497,80.391622,5.0,True,9AM-8PM,Road Segment 74
+POI_0714,Airport Metro,metro_station,13.004089,80.200788,3.9,True,9AM-8PM,Road Segment 56
+POI_0715,Airport Metro,metro_station,13.149084,80.185999,3.4,False,8AM-9PM,Road Segment 47
+POI_0716,Koyambedu Metro,metro_station,12.963808,80.233435,3.3,True,24/7,Velachery Main Road
+POI_0717,Alandur Metro,metro_station,13.152105,80.189638,4.7,True,24/7,Road Segment 48
+POI_0718,Guindy Metro,metro_station,13.15999,80.349631,3.9,True,24/7,Road Segment 31
+POI_0719,Egmore Metro,metro_station,12.982804,80.310631,3.6,True,24/7,Road Segment 55
+POI_0720,Koyambedu Metro,metro_station,12.987264,80.20183,3.8,False,24/7,GST Road
+POI_0721,Central Metro,metro_station,12.99393,80.371949,3.1,True,9AM-8PM,Road Segment 74
+POI_0722,Koyambedu Metro,metro_station,12.982688,80.405306,4.1,True,6AM-10PM,Road Segment 69
+POI_0723,Central Metro,metro_station,13.192775,80.354081,4.4,True,6AM-10PM,Road Segment 44
+POI_0724,Airport Metro,metro_station,13.050759,80.204654,3.6,True,9AM-8PM,100 Feet Road Vadapalani
+POI_0725,Central Metro,metro_station,12.992962,80.396777,2.9,True,9AM-8PM,Road Segment 74
+POI_0726,Anna Nagar Metro,metro_station,12.985727,80.213334,3.8,True,8AM-9PM,Velachery Main Road
+POI_0727,Alandur Metro,metro_station,12.912835,80.311602,4.5,True,9AM-8PM,Road Segment 34
+POI_0728,Egmore Metro,metro_station,13.056082,80.347329,4.0,True,9AM-8PM,Road Segment 25
+POI_0729,Guindy Metro,metro_station,12.872563,80.122271,3.0,False,8AM-9PM,Road Segment 75
+POI_0730,Ather Grid,ev_station,13.026346,80.181756,4.9,True,24/7,Road Segment 56
+POI_0731,Ather Grid,ev_station,13.03258,80.118737,3.7,True,24/7,Road Segment 41
+POI_0732,BPCL EV,ev_station,13.193334,80.133579,3.9,True,8AM-9PM,Road Segment 63
+POI_0733,EESL Charging,ev_station,13.059,80.331251,4.6,True,24/7,Road Segment 29
+POI_0734,EESL Charging,ev_station,12.999064,80.239577,3.2,True,6AM-10PM,Road Segment 68
+POI_0735,Tata Power EV,ev_station,13.018022,80.234473,3.5,True,9AM-8PM,Sardar Patel Road
+POI_0736,Tata Power EV,ev_station,12.97187,80.251416,3.5,False,24/7,Rajiv Gandhi Salai (IT Corridor)
+POI_0737,Tata Power EV,ev_station,12.973008,80.237853,4.7,True,6AM-10PM,Road Segment 62
+POI_0738,Tata Power EV,ev_station,12.8688,80.254849,4.9,True,8AM-9PM,ECR (East Coast Road)
+POI_0739,Tata Power EV,ev_station,12.978725,80.123603,2.9,True,8AM-9PM,Road Segment 37
+POI_0740,BPCL EV,ev_station,13.04129,80.246353,3.9,False,8AM-9PM,Usman Road T Nagar
+POI_0741,BPCL EV,ev_station,12.957812,80.247642,5.0,True,24/7,Rajiv Gandhi Salai (IT Corridor)
+POI_0742,Ather Grid,ev_station,13.015252,80.413133,4.8,True,6AM-10PM,Road Segment 78
+POI_0743,BPCL EV,ev_station,12.947371,80.378842,4.4,True,6AM-10PM,Road Segment 35
+POI_0744,BPCL EV,ev_station,12.850815,80.168814,4.5,True,6AM-10PM,Road Segment 59
+POI_0745,EESL Charging,ev_station,12.950988,80.24013,3.1,True,8AM-9PM,Rajiv Gandhi Salai (IT Corridor)
+POI_0746,EESL Charging,ev_station,12.961812,80.206318,3.9,True,24/7,Velachery Main Road
+POI_0747,BPCL EV,ev_station,13.050046,80.202569,4.9,True,24/7,Arcot Road
+POI_0748,Ather Grid,ev_station,13.139241,80.132172,3.6,True,6AM-10PM,Road Segment 64
+POI_0749,BPCL EV,ev_station,12.986213,80.218136,3.5,True,8AM-9PM,Sardar Patel Road
+POI_0750,BPCL EV,ev_station,12.986179,80.170616,4.9,True,8AM-9PM,Road Segment 26
+POI_0751,BPCL EV,ev_station,13.060819,80.243616,4.3,True,24/7,Nungambakkam High Road
+POI_0752,Ather Grid,ev_station,12.970114,80.100837,2.9,True,24/7,Grand Southern Trunk Road
+POI_0753,Ather Grid,ev_station,13.016347,80.126528,4.0,True,24/7,Road Segment 41
+POI_0754,EESL Charging,ev_station,13.002312,80.215181,4.1,True,6AM-10PM,Sardar Patel Road
+POI_0755,ChargeZone,ev_station,13.18468,80.343779,3.6,False,8AM-9PM,Road Segment 44
+POI_0756,Tata Power EV,ev_station,13.031227,80.11228,2.9,False,8AM-9PM,Road Segment 52
+POI_0757,EESL Charging,ev_station,13.123856,80.170291,3.7,False,24/7,Road Segment 61
+POI_0758,BPCL EV,ev_station,13.080607,80.111677,3.6,True,8AM-9PM,Road Segment 58
+POI_0759,EESL Charging,ev_station,12.991256,80.13655,3.9,True,24/7,Outer Ring Road
+POI_0760,Traffic Police Post,police_station,13.143017,80.116907,3.9,True,6AM-10PM,Road Segment 66
+POI_0761,Highway Patrol,police_station,12.904997,80.324274,3.1,False,6AM-10PM,Road Segment 39
+POI_0762,Chennai Police Station,police_station,13.121105,80.266094,4.7,True,24/7,Road Segment 49
+POI_0763,Traffic Police Post,police_station,13.137901,80.314349,4.5,False,9AM-8PM,Road Segment 28
+POI_0764,Highway Patrol,police_station,13.098797,80.099581,4.8,True,9AM-8PM,Road Segment 30
+POI_0765,Chennai Police Station,police_station,13.055411,80.146761,4.5,False,9AM-8PM,Poonamallee High Road
+POI_0766,Traffic Police Post,police_station,13.046953,80.153493,4.1,True,9AM-8PM,Road Segment 57
+POI_0767,Chennai Police Station,police_station,12.880187,80.225642,4.9,True,8AM-9PM,Road Segment 46
+POI_0768,Traffic Police Post,police_station,13.138657,80.112165,3.8,True,8AM-9PM,Road Segment 66
+POI_0769,Chennai Police Station,police_station,12.872457,80.22174,3.3,True,6AM-10PM,Road Segment 46
+POI_0770,Chennai Police Station,police_station,12.891543,80.131092,5.0,False,6AM-10PM,Road Segment 22
+POI_0771,Traffic Police Post,police_station,13.142657,80.274477,4.3,True,6AM-10PM,NH-16 (Chennai-Kolkata Highway)
+POI_0772,Chennai Police Station,police_station,13.111112,80.323386,3.2,True,24/7,Road Segment 28
+POI_0773,Chennai Police Station,police_station,13.008219,80.119803,4.9,False,8AM-9PM,Road Segment 52
+POI_0774,Chennai Police Station,police_station,12.961036,80.233588,3.6,True,24/7,Rajiv Gandhi Salai (IT Corridor)
+POI_0775,Chennai Police Station,police_station,12.862879,80.260012,3.6,True,8AM-9PM,Road Segment 72
+POI_0776,Highway Patrol,police_station,12.975442,80.147181,4.1,True,24/7,Road Segment 80
+POI_0777,Chennai Police Station,police_station,12.969155,80.217223,3.2,True,9AM-8PM,GST Road
+POI_0778,Highway Patrol,police_station,13.093838,80.117385,4.0,False,24/7,Road Segment 58
+POI_0779,Chennai Police Station,police_station,12.957441,80.390902,4.9,True,8AM-9PM,Road Segment 35
+POI_0780,Traffic Police Post,police_station,13.123354,80.149877,4.7,False,8AM-9PM,Road Segment 61
+POI_0781,Traffic Police Post,police_station,13.043283,80.335857,4.8,True,8AM-9PM,Road Segment 25
+POI_0782,Highway Patrol,police_station,13.087907,80.199282,5.0,True,8AM-9PM,Road Segment 76
+POI_0783,Chennai Police Station,police_station,12.965187,80.131477,3.4,False,6AM-10PM,Road Segment 37
+POI_0784,Chennai Police Station,police_station,13.196204,80.348354,3.9,True,8AM-9PM,Road Segment 67
+POI_0785,Highway Patrol,police_station,12.998829,80.2761,4.7,True,6AM-10PM,Road Segment 43
+POI_0786,Chennai Police Station,police_station,13.094078,80.198753,3.8,True,6AM-10PM,Road Segment 76
+POI_0787,Chennai Police Station,police_station,12.987058,80.406116,2.9,False,6AM-10PM,Road Segment 70
+POI_0788,Traffic Police Post,police_station,13.105311,80.121141,3.7,True,6AM-10PM,Road Segment 58
+POI_0789,Traffic Police Post,police_station,13.080263,80.111006,4.9,False,9AM-8PM,Road Segment 30
+POI_0790,Chennai Police Station,police_station,12.925177,80.232968,3.1,True,6AM-10PM,OMR (Old Mahabalipuram Road)
+POI_0791,Traffic Police Post,police_station,13.002216,80.233852,4.3,True,9AM-8PM,Road Segment 65
+POI_0792,Chennai Police Station,police_station,12.993398,80.150086,4.9,False,24/7,Road Segment 54
+POI_0793,Traffic Police Post,police_station,12.864139,80.126863,3.1,True,8AM-9PM,Road Segment 23
+POI_0794,Traffic Police Post,police_station,13.01193,80.400467,3.5,True,6AM-10PM,Road Segment 78
+POI_0795,Chennai Police Station,police_station,13.192518,80.354423,3.7,True,8AM-9PM,Road Segment 44
+POI_0796,Traffic Police Post,police_station,13.178744,80.117298,4.7,False,6AM-10PM,Road Segment 63
+POI_0797,Traffic Police Post,police_station,12.986939,80.381771,4.5,True,9AM-8PM,Road Segment 70
+POI_0798,Highway Patrol,police_station,12.9965,80.11146,4.1,True,6AM-10PM,Road Segment 37
+POI_0799,Traffic Police Post,police_station,12.989674,80.290209,4.0,True,24/7,Road Segment 43
